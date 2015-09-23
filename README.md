@@ -1,0 +1,1 @@
+# cbiddb - Chromebook identification database
