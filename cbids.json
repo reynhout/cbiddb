@@ -1,0 +1,452 @@
+[
+  {
+    "hwid_base": "ACER ZGB",
+    "name": "Acer AC700-1099 Wifi",
+    "desc": "Acer AC700",
+    "hwidmatch_sha1": "cd0663434437bd66590220c0bf989255e364f730"
+  },
+  {
+    "hwid_base": "ACER ZGB",
+    "name": "Acer AC700-1529 3G",
+    "desc": "Acer AC700",
+    "hwidmatch_sha1": "08d8ac099973049c3b4247aecbdcc9f4dd61e8af"
+  },
+  {
+    "hwid_base": "BANJO",
+    "name": "Acer Chromebook 15 CB3-531",
+    "desc": "15.6\" BYT Chromebook",
+    "hwidmatch_sha1": "5a23e8bf694170d37050222d2cab5f22df76c7bd"
+  },
+  {
+    "hwid_base": "BIG",
+    "name": "Acer Chromebook 13",
+    "desc": "Acer Tegra T124 laptop",
+    "hwidmatch_sha1": "6c249ca0b7e0e6bf443525adc04e5e3fabbe7c75"
+  },
+  {
+    "hwid_base": "BLAZE",
+    "name": "HP Chromebook 14 x000-x999 / HP Chromebook 14 G3",
+    "desc": "HP Tegra T124 laptop",
+    "hwidmatch_sha1": "0776e3dbe91bdc9dd0519d08351fc82b7baf8bd6"
+  },
+  {
+    "hwid_base": "BUTTERFLY",
+    "name": "HP Pavilion Chromebook 14",
+    "desc": "Sandy Bridge Restro-fit",
+    "hwidmatch_sha1": "8b0c8030d21b638df125162094360a474c3b8ba9"
+  },
+  {
+    "hwid_base": "CANDY",
+    "name": "Dell Chromebook 11 (3120)",
+    "desc": "Dell BYT Chromebook.",
+    "hwidmatch_sha1": "7e1e350538fc97a39791dd58d13e09a1550d5a5b"
+  },
+  {
+    "hwid_base": "CLAPPER",
+    "name": "Lenovo N20 Chromebook",
+    "desc": "Lenovo Rambi-based laptop N20/N20P(touch)",
+    "hwidmatch_sha1": "039959513e956da536a797527402982e006466cb"
+  },
+  {
+    "hwid_base": "ENGUARDE",
+    "name": "CTL N6 Education Chromebook",
+    "desc": "11.6\" rugged white-label rambi",
+    "hwidmatch_sha1": "be3998691adaa6196b34a429bf6abe908916fdc1"
+  },
+  {
+    "hwid_base": "ENGUARDE",
+    "name": "Edxis Education Chromebook",
+    "desc": "11.6\" rugged white-label rambi",
+    "hwidmatch_sha1": "080cee60d6d627c184a21d5a92db37101aff0b1d"
+  },
+  {
+    "hwid_base": "ENGUARDE",
+    "name": "Lenovo N21 Chromebook",
+    "desc": "BYT-M Chromebook",
+    "hwidmatch_sha1": "1626868e411aeb96beab2028fbe056256c1aac20"
+  },
+  {
+    "hwid_base": "ENGUARDE",
+    "name": "M&A Chromebook",
+    "desc": "11.6\" rugged white-label rambi",
+    "hwidmatch_sha1": "45250f5033a87cc61754c37b226134ddbde6e276"
+  },
+  {
+    "hwid_base": "ENGUARDE",
+    "name": "Senkatel C1101 Chromebook",
+    "desc": "11.6\" rugged white-label rambi",
+    "hwidmatch_sha1": "d1708e112f3ddfb2da9e670af5dd9c26c6df937a"
+  },
+  {
+    "hwid_base": "EXPRESSO",
+    "name": "Bobicus Chromebook 11",
+    "desc": "11.6\" White-label Rambi",
+    "hwidmatch_sha1": "46f914b727d64fe224cbe05a3a1b7c1e70003921"
+  },
+  {
+    "hwid_base": "EXPRESSO",
+    "name": "Edxis Chromebook",
+    "desc": "11.6\" White-label Rambi",
+    "hwidmatch_sha1": "42d5cb645afe172a4940275decc336b0095a255f"
+  },
+  {
+    "hwid_base": "EXPRESSO",
+    "name": "HEXA Chromebook Pi",
+    "desc": "11.6\" White-label Rambi",
+    "hwidmatch_sha1": "07fb325b2ad0c26267fe8484f44a78b13b519fd5"
+  },
+  {
+    "hwid_base": "FALCO",
+    "name": "HP Chromebook 14 q000-q099 / HP Chromebook 14-SMB Atheros",
+    "desc": "HP Chromebook 14",
+    "hwidmatch_sha1": "27370f87207a4a131424a728b7b5b0f443938b5a"
+  },
+  {
+    "hwid_base": "FALCO",
+    "name": "HP Chromebook 14 q000-q099 WP2 / HP Chromebook 14-SMB Intel Corp",
+    "desc": "HP Chromebook 14",
+    "hwidmatch_sha1": "502419be406520706609fecf6f9525426c34e5e8"
+  },
+  {
+    "hwid_base": "GANDOF",
+    "name": "13.3\" Toshiba Chromebook",
+    "desc": "13.3\" Toshiba Chromebook, Broadwell Swanky refresh",
+    "hwidmatch_sha1": "9d6bfe992354f2612f2c5c0ed8f7edb8109ad8b4"
+  },
+  {
+    "hwid_base": "GLIMMER",
+    "name": "Lenovo ThinkPad 11e Chromebook",
+    "desc": "Lenovo Thinkpad Rambi-based laptop \"Montessori\"",
+    "hwidmatch_sha1": "475f418b38449653739bfaa7eaf60c945278143f"
+  },
+  {
+    "hwid_base": "GNAWTY",
+    "name": "Acer Chromebook 11",
+    "desc": "11\" EDU chromebook \"Hugo\"",
+    "hwidmatch_sha1": "fb8ca62b9f6caf34deba45fe76567ecd932f07cd"
+  },
+  {
+    "hwid_base": "GUADO",
+    "name": "Asus Chromebox CN62",
+    "desc": "Asus Panther Chromebox BDW-U Refresh",
+    "hwidmatch_sha1": "4789ee322afdf422298562f72b27698efbc47baf"
+  },
+  {
+    "hwid_base": "HELI",
+    "name": "Huaqin 11\"",
+    "desc": "Huaqin 11\" BYT-M follower white label",
+    "hwidmatch_sha1": "e883ebbaa209bf1d427762cab9dcffe4f61c2562"
+  },
+  {
+    "hwid_base": "IEC MARIO",
+    "name": "Cr-48",
+    "desc": "Cr-48",
+    "hwidmatch_sha1": "b83c95569fca1d50eb3416a0fc766abfb55835c3"
+  },
+  {
+    "hwid_base": "JAQ",
+    "name": "Haier Chromebook 11",
+    "desc": "Pinky 11.6\" consumer",
+    "hwidmatch_sha1": "8196252f8820fc2b1525fe54a085d30406d309ee"
+  },
+  {
+    "hwid_base": "JAQ",
+    "name": "True IDC Chromebook 11",
+    "desc": "Pinky 11.6\" consumer",
+    "hwidmatch_sha1": "da0ae2ab1a6aa18b90ae3c3a2fee77270416bf52"
+  },
+  {
+    "hwid_base": "JAQ",
+    "name": "Xolo Chromebook",
+    "desc": "Pinky 11.6\" consumer",
+    "hwidmatch_sha1": "8ce9710cb4ab25a1b09cbb2f80361dd684bc209d"
+  },
+  {
+    "hwid_base": "JERRY",
+    "name": "CTL J2 / J4 Chromebook for Education",
+    "desc": "11.6\" White-label Pinky",
+    "hwidmatch_sha1": "fd6a25a93a1ceaf7bd52812128cf36231c633f2a"
+  },
+  {
+    "hwid_base": "JERRY",
+    "name": "HiSense Chromebook 11",
+    "desc": "11.6\" White-label Pinky",
+    "hwidmatch_sha1": "d3616341693291f122ec9de8ff75c6525acd1b95"
+  },
+  {
+    "hwid_base": "JERRY",
+    "name": "Poin2 Chromebook 11",
+    "desc": "11.6\" White-label Pinky",
+    "hwidmatch_sha1": "14fa2f21c5029e156551ad528f2d36127895e03a"
+  },
+  {
+    "hwid_base": "JERRY",
+    "name": "eduGear Chromebook K Series",
+    "desc": "11.6\" White-label Pinky",
+    "hwidmatch_sha1": "fcf62ee0c120c2b727278463b8388896501e8112"
+  },
+  {
+    "hwid_base": "KIP",
+    "name": "HP Chromebook 11 2100-2299 / HP Chromebook 11 G3/G4",
+    "desc": "HP 11\" BYT laptop",
+    "hwidmatch_sha1": "d6d661f8196118e6ed681a7a3e2ec4b11d12f198"
+  },
+  {
+    "hwid_base": "KIP",
+    "name": "HP Chromebook 14 ak000-099 / HP Chromebook 14 G4",
+    "desc": "HP Belu 1.0 (14\" kip zerg board)",
+    "hwidmatch_sha1": "c84187a96ccff47acd83f3a91b6cdc1b936efdeb"
+  },
+  {
+    "hwid_base": "KITTY",
+    "name": "Acer Chromebase",
+    "desc": "21.5\" nVidia K1 AIO w/ touch",
+    "hwidmatch_sha1": "b34f5d63fb7903ea60b26a81f776d45c3e1fbcff"
+  },
+  {
+    "hwid_base": "LEON",
+    "name": "Toshiba Chromebook",
+    "desc": "toshiba haswell follon-on project",
+    "hwidmatch_sha1": "d0fe70361fb7e1a5c141e55694d2a33dbe45bf71"
+  },
+  {
+    "hwid_base": "LINK",
+    "name": "Google Chromebook Pixel",
+    "desc": "Google Chromebook Pixel",
+    "hwidmatch_sha1": "4a643aab03c30887e2c7542fa3dd312331bda9b2"
+  },
+  {
+    "hwid_base": "LULU",
+    "name": "Dell Chromebook 13 7310",
+    "desc": "Dell 13\" BDW-U professional highend clamshell",
+    "hwidmatch_sha1": "66787455bfbb21d945ad1af7cba66fcc5b846854"
+  },
+  {
+    "hwid_base": "LUMPY",
+    "name": "Samsung Chromebook Series 5 550",
+    "desc": "Samsung Chromebook Series 5 550",
+    "hwidmatch_sha1": "da8470ef36a416a4f8de2906353760bc1c83d34d"
+  },
+  {
+    "hwid_base": "MCCLOUD",
+    "name": "Acer Chromebox",
+    "desc": "Acer Beltino-based Chromebox",
+    "hwidmatch_sha1": "35159349765ada34ace1bf00aa395f9afd6453b7"
+  },
+  {
+    "hwid_base": "MIGHTY",
+    "name": "Haier Chromebook 11e",
+    "desc": "11.6\" EDU Pinky",
+    "hwidmatch_sha1": "72ea3340ddecf415abc17d5160f9287d8e6f8dcd"
+  },
+  {
+    "hwid_base": "MIGHTY",
+    "name": "Nexian Chromebook 11.6-inch",
+    "desc": "11.6\" EDU Pinky",
+    "hwidmatch_sha1": "2e3ebc92bd78a70d511c6b5dfda86049f71e48d6"
+  },
+  {
+    "hwid_base": "MIGHTY",
+    "name": "Sector 5 E1 Rugged Chromebook",
+    "desc": "11.6\" EDU Pinky",
+    "hwidmatch_sha1": "300f607419ccdd2f5733231e82f63bf36e594fe0"
+  },
+  {
+    "hwid_base": "MIGHTY",
+    "name": "Viglen Chromebook 11",
+    "desc": "11.6\" rugged pinky",
+    "hwidmatch_sha1": "c002a65712ed7e53c596ab5925beec41740061b9"
+  },
+  {
+    "hwid_base": "MIGHTY",
+    "name": "eduGear Chromebook M Series",
+    "desc": "11.6\" EDU Pinky",
+    "hwidmatch_sha1": "e26b0e74df81ddc5b4ca61c8f99bcf1c5a5220ca"
+  },
+  {
+    "hwid_base": "MINNIE",
+    "name": "ASUS Chromebook Flip C100PA",
+    "desc": "Asus Rockchip Convertible",
+    "hwidmatch_sha1": "425dd25606afcf8d9a74b80f8834d22de6d60dce"
+  },
+  {
+    "hwid_base": "MONROE",
+    "name": "LG Chromebase",
+    "desc": "lg beltino based AIO",
+    "hwidmatch_sha1": "660d49cdeabc6b471306a9b39caaf71fefa8ff89"
+  },
+  {
+    "hwid_base": "NINJA",
+    "name": "AOpen Chromebox Commercial",
+    "desc": "BYT-M Chromebox",
+    "hwidmatch_sha1": "9cf933513ba090393b297bd9c27f63b178c8b902"
+  },
+  {
+    "hwid_base": "ORCO",
+    "name": "Lenovo 100S Chromebook",
+    "desc": "11.6\" BYT Chromebook",
+    "hwidmatch_sha1": "ea8633f1d70ca9080fbac3ca8795679da19f6098"
+  },
+  {
+    "hwid_base": "PAINE",
+    "name": "Acer C740 Chromebook",
+    "desc": "11.6\" EDU focued BDW-U clamshell using Peppy ID",
+    "hwidmatch_sha1": "ff1b116909c57f6e5d56f2ca854fe12443fab5bb"
+  },
+  {
+    "hwid_base": "PANTHER",
+    "name": "ASUS Chromebox CN60",
+    "desc": "asus haswell chromebox",
+    "hwidmatch_sha1": "ecbe8a195100ef0c0fd52e9dadd695e077fcfa3c"
+  },
+  {
+    "hwid_base": "PARROT",
+    "name": "Acer C7 Chromebook",
+    "desc": "Acer C7 Chromebook",
+    "hwidmatch_sha1": "b2e1ae8563cb3fada438ef283deb9e0613ff0b2c"
+  },
+  {
+    "hwid_base": "PARROT",
+    "name": "Acer C7 Chromebook IVB",
+    "desc": "Acer C7 Chromebook",
+    "hwidmatch_sha1": "2ab9d56dea5c2b2415516d51d6c47e5857ecf847"
+  },
+  {
+    "hwid_base": "PEPPY",
+    "name": "Acer C720 Chromebook",
+    "desc": "Acer C720 Chromebook",
+    "hwidmatch_sha1": "4be7b1e01c991166cc8c584ab5015f66c57fd1d7"
+  },
+  {
+    "hwid_base": "PI",
+    "name": "Samsung Chromebook 2 13\"",
+    "desc": "Samsung Ares device",
+    "hwidmatch_sha1": "9755afe2ea8337707fb1a89cbd84729f399d573c"
+  },
+  {
+    "hwid_base": "PIT",
+    "name": "Samsung Chromebook 2 11\"",
+    "desc": "Samsung Ares device",
+    "hwidmatch_sha1": "76bcabd6a59a8664187b2bf35f6a3317ecc69678"
+  },
+  {
+    "hwid_base": "QUAWKS",
+    "name": "Asus Chromebook C300",
+    "desc": "Asus Chromebook C300",
+    "hwidmatch_sha1": "a6a64060d44fa4848dfafc6d3a0b5259ce34fe7b"
+  },
+  {
+    "hwid_base": "RIKKU",
+    "name": "Acer Chromebox CXI2",
+    "desc": "Broadwell Box",
+    "hwidmatch_sha1": "620ef6874d6065acb3c5fac7c1d31b43d222f949"
+  },
+  {
+    "hwid_base": "SAMS ALEX",
+    "name": "Samsung Chromebook Series 5 ",
+    "desc": "Samsung Chromebook Series 5",
+    "hwidmatch_sha1": "ca4ace8a718c029b76b98d363ff39f75ee3e0e5d"
+  },
+  {
+    "hwid_base": "SAMS ALEX",
+    "name": "Samsung Chromebook Series 5 US 3G only",
+    "desc": "Samsung Chromebook Series 5",
+    "hwidmatch_sha1": "fe3b555086aadbb2e2475954b1e364f9695da8c8"
+  },
+  {
+    "hwid_base": "SAMUS",
+    "name": "Google Chromebook Pixel (2015)",
+    "desc": "rev of pixel",
+    "hwidmatch_sha1": "6974341cf2c834ea914b7d14fee5018fe73622a6"
+  },
+  {
+    "hwid_base": "SKATE",
+    "name": "HP Chromebook 11 2000-2099 / HP Chromebook 11 G2",
+    "desc": "HP Peach 1.0",
+    "hwidmatch_sha1": "4e2345349b7e9362e0fcbaabdff8721524dd7b21"
+  },
+  {
+    "hwid_base": "SNOW",
+    "name": "Samsung Chromebook",
+    "desc": "Samsung Chromebook",
+    "hwidmatch_sha1": "2583cc70f983e0836d52f95076d2d8e90405ad7a"
+  },
+  {
+    "hwid_base": "SPEEDY",
+    "name": "ASUS Chromebook C201",
+    "desc": "Asus Rockchip Clamshell",
+    "hwidmatch_sha1": "2b4a798d2bb13ea2afbc5700abf7fb88e635c134"
+  },
+  {
+    "hwid_base": "SPRING",
+    "name": "HP Chromebook 11 1100-1199 / HP Chromebook 11 G1",
+    "desc": "Yoshi",
+    "hwidmatch_sha1": "6862dcb1c1d6be99b1da34dcd26fd36f1d334c62"
+  },
+  {
+    "hwid_base": "SQUAWKS",
+    "name": "Asus Chromebook C200",
+    "desc": "Asus Chromebook C200",
+    "hwidmatch_sha1": "776011625c790fdd486f3c52dadd7f3824eb9e0c"
+  },
+  {
+    "hwid_base": "STOUT",
+    "name": "Lenovo Thinkpad X131e Chromebook",
+    "desc": "Lenovo Thinkpad X131e Chromebook",
+    "hwidmatch_sha1": "67e8503c63d1074893cc5e15541b187d2892767c"
+  },
+  {
+    "hwid_base": "STUMPY",
+    "name": "Samsung Chromebox Series 3",
+    "desc": "Samsung Chromebox Series 3",
+    "hwidmatch_sha1": "207379b2fada922b2a0dfb48fdddc21a35184b7d"
+  },
+  {
+    "hwid_base": "SUMO",
+    "name": "AOpen Chromebase Commercial",
+    "desc": "BYT-M Chromebase",
+    "hwidmatch_sha1": "1ec161d1c75ee95de8c33141bc45123e7d630848"
+  },
+  {
+    "hwid_base": "SWANKY",
+    "name": "Toshiba Chromebook 2",
+    "desc": "13\" BYT-M HD & FHD IPS",
+    "hwidmatch_sha1": "35bc2cf8d8feea795216115819ed0682ac965083"
+  },
+  {
+    "hwid_base": "TIDUS",
+    "name": "Lenovo ThinkCentre Chromebox",
+    "desc": "BDW Chromebox",
+    "hwidmatch_sha1": "1b7a75accd8bba8bb3e19b8f1cda92b0f73a3d7d"
+  },
+  {
+    "hwid_base": "TRICKY",
+    "name": "Dell Chromebox",
+    "desc": "Dell Beltino-based Chromebox",
+    "hwidmatch_sha1": "3eaee25fab263b08950707d14336da84699c24d8"
+  },
+  {
+    "hwid_base": "WINKY",
+    "name": "Samsung Chromebook 2 11 - XE500C12",
+    "desc": "Samsung Bay Trail M Rambi-based laptop",
+    "hwidmatch_sha1": "6679846417b88e85c619ba671c3b4e129d0b205f"
+  },
+  {
+    "hwid_base": "WOLF",
+    "name": "Dell Chromebook 11",
+    "desc": "dell haswell follow-on project",
+    "hwidmatch_sha1": "c507d02366997d203cc2c9897edcb8b525e28b1f"
+  },
+  {
+    "hwid_base": "YUNA",
+    "name": "Acer Chromebook 15",
+    "desc": "15.6\" BDW-U consumer clamshell",
+    "hwidmatch_sha1": "5aa803a8d82f2055c85c8b60ac895bc3a5473b7c"
+  },
+  {
+    "hwid_base": "ZAKO",
+    "name": "HP Chromebox CB1-(000-099) / HP Chromebox G1/ HP Chromebox for Meetings",
+    "desc": "HP Beltino-based chromebox",
+    "hwidmatch_sha1": "5df71f5d26c7fed307a52ff57c737a9c8206565a"
+  }
+]
