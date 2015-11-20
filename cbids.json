@@ -12,6 +12,12 @@
     "hwidmatch_sha1": "08d8ac099973049c3b4247aecbdcc9f4dd61e8af"
   },
   {
+    "hwid_base": "ARKHAM",
+    "name": "OnHub SRT-AC1900",
+    "desc": "ASUS OnHub router",
+    "hwidmatch_sha1": "49e01d79e8e146d8e665f39428a57dc24f59ce31"
+  },
+  {
     "hwid_base": "BANJO",
     "name": "Acer Chromebook 15 CB3-531",
     "desc": "15.6\" BYT Chromebook",
@@ -109,7 +115,7 @@
   },
   {
     "hwid_base": "GANDOF",
-    "name": "13.3\" Toshiba Chromebook",
+    "name": "Toshiba Chromebook 2 (2015 Edition)",
     "desc": "13.3\" Toshiba Chromebook, Broadwell Swanky refresh",
     "hwidmatch_sha1": "9d6bfe992354f2612f2c5c0ed8f7edb8109ad8b4"
   },
@@ -232,6 +238,12 @@
     "name": "Acer Chromebox",
     "desc": "Acer Beltino-based Chromebox",
     "hwidmatch_sha1": "35159349765ada34ace1bf00aa395f9afd6453b7"
+  },
+  {
+    "hwid_base": "MICKEY",
+    "name": "Asus Chromebit CS10",
+    "desc": "Asus Rockchip Chromebit",
+    "hwidmatch_sha1": "6b3bc0c92c6ec16d911bce39cdb6556d1de76c15"
   },
   {
     "hwid_base": "MIGHTY",
@@ -424,6 +436,12 @@
     "name": "Dell Chromebox",
     "desc": "Dell Beltino-based Chromebox",
     "hwidmatch_sha1": "3eaee25fab263b08950707d14336da84699c24d8"
+  },
+  {
+    "hwid_base": "WHIRLWIND",
+    "name": "OnHub TGR 1900",
+    "desc": "whirlwind OnHub device",
+    "hwidmatch_sha1": "e998b5b68bd0819f1d6caf2e72886d7871bcdccf"
   },
   {
     "hwid_base": "WINKY",
