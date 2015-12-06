@@ -249,31 +249,31 @@
     "hwid_base": "MIGHTY",
     "name": "Haier Chromebook 11e",
     "desc": "11.6\" EDU Pinky",
-    "hwidmatch_sha1": "72ea3340ddecf415abc17d5160f9287d8e6f8dcd"
+    "hwidmatch_sha1": "d3d861ac42360313b8e5f41dd3ad3de2527321df"
   },
   {
     "hwid_base": "MIGHTY",
     "name": "Nexian Chromebook 11.6-inch",
     "desc": "11.6\" EDU Pinky",
-    "hwidmatch_sha1": "2e3ebc92bd78a70d511c6b5dfda86049f71e48d6"
+    "hwidmatch_sha1": "fd4389cd10e84d8ce2a11f681d3656775ccb22e2"
   },
   {
     "hwid_base": "MIGHTY",
     "name": "Sector 5 E1 Rugged Chromebook",
     "desc": "11.6\" EDU Pinky",
-    "hwidmatch_sha1": "300f607419ccdd2f5733231e82f63bf36e594fe0"
+    "hwidmatch_sha1": "3e83a35ddffa8955b2f22a7922b6fd847d2299c8"
   },
   {
     "hwid_base": "MIGHTY",
     "name": "Viglen Chromebook 11",
     "desc": "11.6\" rugged pinky",
-    "hwidmatch_sha1": "c002a65712ed7e53c596ab5925beec41740061b9"
+    "hwidmatch_sha1": "4b3a2bb823216f0228c7f64002a44107a45e2b18"
   },
   {
     "hwid_base": "MIGHTY",
     "name": "eduGear Chromebook M Series",
     "desc": "11.6\" EDU Pinky",
-    "hwidmatch_sha1": "e26b0e74df81ddc5b4ca61c8f99bcf1c5a5220ca"
+    "hwidmatch_sha1": "2d0394c645266c98407414eff5baa10c5ca38bea"
   },
   {
     "hwid_base": "MINNIE",
@@ -355,7 +355,7 @@
   },
   {
     "hwid_base": "SAMS ALEX",
-    "name": "Samsung Chromebook Series 5 ",
+    "name": "Samsung Chromebook Series 5",
     "desc": "Samsung Chromebook Series 5",
     "hwidmatch_sha1": "ca4ace8a718c029b76b98d363ff39f75ee3e0e5d"
   },
