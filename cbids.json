@@ -54,6 +54,12 @@
     "hwidmatch_sha1": "039959513e956da536a797527402982e006466cb"
   },
   {
+    "hwid_base": "CYAN",
+    "name": "Acer Chromebook R11",
+    "desc": "Braswell 11\" convertible (announced on 9/2/2015 at IFA)",
+    "hwidmatch_sha1": "8c24c6283e2e84bf0fc3a4bedce81d572a0d3e79"
+  },
+  {
     "hwid_base": "ENGUARDE",
     "name": "CTL N6 Education Chromebook",
     "desc": "11.6\" rugged white-label rambi",
@@ -139,7 +145,7 @@
   },
   {
     "hwid_base": "HELI",
-    "name": "Huaqin 11\"",
+    "name": "Haier Chromebook 11 G2",
     "desc": "Huaqin 11\" BYT-M follower white label",
     "hwidmatch_sha1": "e883ebbaa209bf1d427762cab9dcffe4f61c2562"
   },
