@@ -48,6 +48,12 @@
     "hwidmatch_sha1": "7e1e350538fc97a39791dd58d13e09a1550d5a5b"
   },
   {
+    "hwid_base": "CELES",
+    "name": "Samsung Chromebook 3",
+    "desc": "11.6\" BSW Chromebook",
+    "hwidmatch_sha1": "2049add6dd9d5fb132b83a23dc783daa847baf80"
+  },
+  {
     "hwid_base": "CLAPPER",
     "name": "Lenovo N20 Chromebook",
     "desc": "Lenovo Rambi-based laptop N20/N20P(touch)",
@@ -253,9 +259,27 @@
   },
   {
     "hwid_base": "MIGHTY",
+    "name": "Chromebook PCM-116E",
+    "desc": "PCmerge Chromebook PCM-116E",
+    "hwidmatch_sha1": "59f406517f36442911b52f83735df34066e8701b"
+  },
+  {
+    "hwid_base": "MIGHTY",
     "name": "Haier Chromebook 11e",
     "desc": "11.6\" EDU Pinky",
     "hwidmatch_sha1": "d3d861ac42360313b8e5f41dd3ad3de2527321df"
+  },
+  {
+    "hwid_base": "MIGHTY",
+    "name": "Lumos Education Chromebook",
+    "desc": "11.6\" Edxis EDU Chromebook",
+    "hwidmatch_sha1": "19a2320bcdedc3f079dfb304d8a9c40fefc5e433"
+  },
+  {
+    "hwid_base": "MIGHTY",
+    "name": "MEDION Chromebook S2015",
+    "desc": "11.6\" Chromebook from MEDION",
+    "hwidmatch_sha1": "248e41027cade013591d39b4afb4ca3ede4fb764"
   },
   {
     "hwid_base": "MIGHTY",
