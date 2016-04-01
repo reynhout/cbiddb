@@ -378,6 +378,12 @@
     "hwidmatch_sha1": "a6a64060d44fa4848dfafc6d3a0b5259ce34fe7b"
   },
   {
+    "hwid_base": "REKS",
+    "name": "Lenovo N22 Chromebook",
+    "desc": "Lenovo N22 11.6\" BSW EDU",
+    "hwidmatch_sha1": "1e98d3e8e8c6090b87ba11f6c8f9579faf3d6211"
+  },
+  {
     "hwid_base": "RIKKU",
     "name": "Acer Chromebox CXI2",
     "desc": "Broadwell Box",
