@@ -144,6 +144,12 @@
     "hwidmatch_sha1": "fb8ca62b9f6caf34deba45fe76567ecd932f07cd"
   },
   {
+    "hwid_base": "GNAWTY",
+    "name": "Olay",
+    "desc": "BYT (N2849) - Gnawty board with Gnawty image + Cyan case",
+    "hwidmatch_sha1": "44f1f80d0eab938c24309ee0a834a7f934ac9760"
+  },
+  {
     "hwid_base": "GUADO",
     "name": "Asus Chromebox CN62",
     "desc": "Asus Panther Chromebox BDW-U Refresh",
@@ -462,6 +468,18 @@
     "hwidmatch_sha1": "35bc2cf8d8feea795216115819ed0682ac965083"
   },
   {
+    "hwid_base": "TERRA",
+    "name": "ASUS CHROMEBOOOK C202SA",
+    "desc": "ASUS CHROMEBOOOK C202SA",
+    "hwidmatch_sha1": "fb6431ee7a7923b13a1f2a2db38fd9afee6cff06"
+  },
+  {
+    "hwid_base": "TERRA13",
+    "name": "ASUS CHROMEBOOK C300SA",
+    "desc": "FSI is M49, NOT M48.",
+    "hwidmatch_sha1": "31f19c15e015284f8f5f6e1271be9e853029e843"
+  },
+  {
     "hwid_base": "TIDUS",
     "name": "Lenovo ThinkCentre Chromebox",
     "desc": "BDW Chromebox",
@@ -472,6 +490,12 @@
     "name": "Dell Chromebox",
     "desc": "Dell Beltino-based Chromebox",
     "hwidmatch_sha1": "3eaee25fab263b08950707d14336da84699c24d8"
+  },
+  {
+    "hwid_base": "ULTIMA",
+    "name": "ThinkPad 11e Chromebook (3rd Gen) / ThinkPad Yoga 11e Chromebook (3rd Gen)",
+    "desc": "Lenovo 11.6\" convertible and 180",
+    "hwidmatch_sha1": "ddd603278d007e40b93c85efb4042f18f267d51f"
   },
   {
     "hwid_base": "WHIRLWIND",
