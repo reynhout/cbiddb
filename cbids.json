@@ -54,6 +54,12 @@
     "hwidmatch_sha1": "2049add6dd9d5fb132b83a23dc783daa847baf80"
   },
   {
+    "hwid_base": "CHELL",
+    "name": "HP Chromebook 13 G1",
+    "desc": "13.3\" SKL-Y clamshell",
+    "hwidmatch_sha1": "b108718f92bce3bde8e03a5f2a9cfd0e92210ca7"
+  },
+  {
     "hwid_base": "CLAPPER",
     "name": "Lenovo N20 Chromebook",
     "desc": "Lenovo Rambi-based laptop N20/N20P(touch)",
@@ -141,19 +147,13 @@
     "hwid_base": "GNAWTY",
     "name": "Acer Chromebook 11 (C730)",
     "desc": "11\" chromebook \"Hugo\"",
-    "hwidmatch_sha1": "fb8ca62b9f6caf34deba45fe76567ecd932f07cd"
-  },
-  {
-    "hwid_base": "GNAWTY",
-    "name": "Acer Chromebook 11 (C730E)",
-    "desc": "11\" chromebook \"Hugo_EDU\" for EDU",
-    "hwidmatch_sha1": "a62c682f302e21d530305e1e5d63e9973239aa89"
+    "hwidmatch_sha1": "d8e48b33beea9c0858002007ee42baf73e0cf4cb"
   },
   {
     "hwid_base": "GNAWTY",
     "name": "Olay / Chromebook 11 (C735)",
-    "desc": "BYT (N2849) - Gnawty board with Gnawty image + Cyan case",
-    "hwidmatch_sha1": "44f1f80d0eab938c24309ee0a834a7f934ac9760"
+    "desc": "11\" BYT- Gnawty board with Gnawty image + Cyan case",
+    "hwidmatch_sha1": "9173e6eb47532cd8f8b62de498400622ac35b931"
   },
   {
     "hwid_base": "GUADO",
@@ -181,6 +181,12 @@
   },
   {
     "hwid_base": "JAQ",
+    "name": "Medion Akoya S2013",
+    "desc": "Pinky 11.6\" consumer",
+    "hwidmatch_sha1": "0995cd11dfb81c9f9a87def68e181e62dc2ca3d5"
+  },
+  {
+    "hwid_base": "JAQ",
     "name": "True IDC Chromebook 11",
     "desc": "Pinky 11.6\" consumer",
     "hwidmatch_sha1": "da0ae2ab1a6aa18b90ae3c3a2fee77270416bf52"
@@ -195,31 +201,31 @@
     "hwid_base": "JERRY",
     "name": "CTL J2 / J4 Chromebook for Education",
     "desc": "11.6\" White-label Pinky",
-    "hwidmatch_sha1": "fd6a25a93a1ceaf7bd52812128cf36231c633f2a"
+    "hwidmatch_sha1": "f26d332933db15d27eb89466e16bbeddce7cca32"
   },
   {
     "hwid_base": "JERRY",
     "name": "HiSense Chromebook 11",
     "desc": "11.6\" White-label Pinky",
-    "hwidmatch_sha1": "d3616341693291f122ec9de8ff75c6525acd1b95"
+    "hwidmatch_sha1": "88488e5028a099e7bf952795065c09854b808875"
   },
   {
     "hwid_base": "JERRY",
     "name": "NComputing Chromebook CX100",
     "desc": "11.6\" Whitelabel PInky",
-    "hwidmatch_sha1": "02aa60f04b44842572d1466f3bcfed3df4c119f6"
+    "hwidmatch_sha1": "c7e19dd06be06867029a58b29267b3df7b597c90"
   },
   {
     "hwid_base": "JERRY",
     "name": "Poin2 Chromebook 11",
     "desc": "11.6\" White-label Pinky",
-    "hwidmatch_sha1": "14fa2f21c5029e156551ad528f2d36127895e03a"
+    "hwidmatch_sha1": "401c9bea059352ce2d9a3b8bad9835bac4cd88f9"
   },
   {
     "hwid_base": "JERRY",
     "name": "eduGear Chromebook K Series",
     "desc": "11.6\" White-label Pinky",
-    "hwidmatch_sha1": "fcf62ee0c120c2b727278463b8388896501e8112"
+    "hwidmatch_sha1": "ef70fb93d03d4c11efef23e39582319f8fb9c15b"
   },
   {
     "hwid_base": "KIP",
@@ -340,6 +346,12 @@
     "name": "AOpen Chromebox Commercial",
     "desc": "BYT-M Chromebox",
     "hwidmatch_sha1": "9cf933513ba090393b297bd9c27f63b178c8b902"
+  },
+  {
+    "hwid_base": "NOTHING",
+    "name": "Acer Chromebook 11 (C730E)",
+    "desc": "11\" chromebook \"Hugo_EDU\" for EDU",
+    "hwidmatch_sha1": "d68cd7603ed744552520074c12e896d6a7a494ab"
   },
   {
     "hwid_base": "ORCO",
