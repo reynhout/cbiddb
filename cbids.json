@@ -36,6 +36,12 @@
     "hwidmatch_sha1": "0776e3dbe91bdc9dd0519d08351fc82b7baf8bd6"
   },
   {
+    "hwid_base": "BUDDY",
+    "name": "Acer Chromebase 24",
+    "desc": "Broadwell 24\" Chromebase",
+    "hwidmatch_sha1": "be2f21e3d0ad7aa82a26ad9a13d3349840d6f2d6"
+  },
+  {
     "hwid_base": "BUTTERFLY",
     "name": "HP Pavilion Chromebook 14",
     "desc": "Sandy Bridge Restro-fit",
@@ -72,52 +78,94 @@
     "hwidmatch_sha1": "8c24c6283e2e84bf0fc3a4bedce81d572a0d3e79"
   },
   {
+    "hwid_base": "EDGAR",
+    "name": "Sanance / Chromebook 14 (CB3-431)",
+    "desc": "Acer Sanance 14\" BSW Narrow Bezel Metal-Slim chassis Chromebook.",
+    "hwidmatch_sha1": "03dc64e83dd8fadb2f52a7e408522984a3993d60"
+  },
+  {
+    "hwid_base": "ENGUARDE",
+    "name": "ASI Chromebook",
+    "desc": "11.6\" rugged white-label",
+    "hwidmatch_sha1": "95fc9aaf35ce1e91a6a9357fd832db32cd9e60c5"
+  },
+  {
     "hwid_base": "ENGUARDE",
     "name": "CTL N6 Education Chromebook",
     "desc": "11.6\" rugged white-label rambi",
-    "hwidmatch_sha1": "be3998691adaa6196b34a429bf6abe908916fdc1"
+    "hwidmatch_sha1": "b01ff86ef29b055d46292fdb6c3baf17d5ba6c85"
+  },
+  {
+    "hwid_base": "ENGUARDE",
+    "name": "Crambo Chromebook",
+    "desc": "11.6\" rugged white-label",
+    "hwidmatch_sha1": "2db2232011f72775ba640ff05a58c3a7198192b0"
   },
   {
     "hwid_base": "ENGUARDE",
     "name": "Edxis Education Chromebook",
     "desc": "11.6\" rugged white-label rambi",
-    "hwidmatch_sha1": "080cee60d6d627c184a21d5a92db37101aff0b1d"
+    "hwidmatch_sha1": "65bad9fb9cfcdc7b438aa78d56200376fa816819"
   },
   {
     "hwid_base": "ENGUARDE",
     "name": "Lenovo N21 Chromebook",
     "desc": "BYT-M Chromebook",
-    "hwidmatch_sha1": "1626868e411aeb96beab2028fbe056256c1aac20"
+    "hwidmatch_sha1": "376c657281a016e5550d654b4c915d3d9644cbae"
   },
   {
     "hwid_base": "ENGUARDE",
     "name": "M&A Chromebook",
     "desc": "11.6\" rugged white-label rambi",
-    "hwidmatch_sha1": "45250f5033a87cc61754c37b226134ddbde6e276"
+    "hwidmatch_sha1": "d7bd382bfdd296b9e1578d46136f58615fbd1716"
+  },
+  {
+    "hwid_base": "ENGUARDE",
+    "name": "RGS Education Chromebook",
+    "desc": "11.6\" rugged white-label",
+    "hwidmatch_sha1": "fd08ea33aa3b6bd3cf5b2486fef44993a92539e4"
   },
   {
     "hwid_base": "ENGUARDE",
     "name": "Senkatel C1101 Chromebook",
     "desc": "11.6\" rugged white-label rambi",
-    "hwidmatch_sha1": "d1708e112f3ddfb2da9e670af5dd9c26c6df937a"
+    "hwidmatch_sha1": "dd3642ccdff13bcbcc0147abc0181a5d9383f083"
+  },
+  {
+    "hwid_base": "ENGUARDE",
+    "name": "True IDC Chromebook",
+    "desc": "11.6\" rugged white-label",
+    "hwidmatch_sha1": "4f9487dd1ad6b9244bef64e2e9073db3c8763364"
+  },
+  {
+    "hwid_base": "ENGUARDE",
+    "name": "Videonet Chromebook",
+    "desc": "11.6\" rugged white-label",
+    "hwidmatch_sha1": "e4127a54081fb777c7757d1c84632092892449ce"
+  },
+  {
+    "hwid_base": "ENGUARDE",
+    "name": "eduGear Chromebook R",
+    "desc": "11.6\" rugged white-label",
+    "hwidmatch_sha1": "bb33dd66d089aaedf91cfa4cba90f23f2275b578"
   },
   {
     "hwid_base": "EXPRESSO",
     "name": "Bobicus Chromebook 11",
     "desc": "11.6\" White-label Rambi",
-    "hwidmatch_sha1": "46f914b727d64fe224cbe05a3a1b7c1e70003921"
+    "hwidmatch_sha1": "e02691afc8255e35ff2d1213f6a88aa70dab5f88"
   },
   {
     "hwid_base": "EXPRESSO",
     "name": "Edxis Chromebook",
     "desc": "11.6\" White-label Rambi",
-    "hwidmatch_sha1": "42d5cb645afe172a4940275decc336b0095a255f"
+    "hwidmatch_sha1": "56dca2a48065882b536ffe0e79a903b64d6cc2c1"
   },
   {
     "hwid_base": "EXPRESSO",
     "name": "HEXA Chromebook Pi",
     "desc": "11.6\" White-label Rambi",
-    "hwidmatch_sha1": "07fb325b2ad0c26267fe8484f44a78b13b519fd5"
+    "hwidmatch_sha1": "f8b635492ba4b8b5b5c9b6bd53ee74853126e2bb"
   },
   {
     "hwid_base": "FALCO",
@@ -145,15 +193,15 @@
   },
   {
     "hwid_base": "GNAWTY",
-    "name": "Acer Chromebook 11 (C730)",
-    "desc": "11\" chromebook \"Hugo\"",
-    "hwidmatch_sha1": "d8e48b33beea9c0858002007ee42baf73e0cf4cb"
+    "name": "Acer Chromebook 11 (C730 / C730E)",
+    "desc": "11\" chromebook Hugo and Hugo_Edu",
+    "hwidmatch_sha1": "017d93becf09f0384bdfdbcdd23918ba3b423f0f"
   },
   {
     "hwid_base": "GNAWTY",
     "name": "Olay / Chromebook 11 (C735)",
     "desc": "11\" BYT- Gnawty board with Gnawty image + Cyan case",
-    "hwidmatch_sha1": "9173e6eb47532cd8f8b62de498400622ac35b931"
+    "hwidmatch_sha1": "9d15cae4212e36ea0d95366ae1ac93e66ee81202"
   },
   {
     "hwid_base": "GUADO",
@@ -177,25 +225,25 @@
     "hwid_base": "JAQ",
     "name": "Haier Chromebook 11",
     "desc": "Pinky 11.6\" consumer",
-    "hwidmatch_sha1": "8196252f8820fc2b1525fe54a085d30406d309ee"
+    "hwidmatch_sha1": "b24eef15f26a61be07463c9f46c36b153e1acf65"
   },
   {
     "hwid_base": "JAQ",
     "name": "Medion Akoya S2013",
     "desc": "Pinky 11.6\" consumer",
-    "hwidmatch_sha1": "0995cd11dfb81c9f9a87def68e181e62dc2ca3d5"
+    "hwidmatch_sha1": "9283e966585c04a271fc9f4a150b212b04dfa345"
   },
   {
     "hwid_base": "JAQ",
     "name": "True IDC Chromebook 11",
     "desc": "Pinky 11.6\" consumer",
-    "hwidmatch_sha1": "da0ae2ab1a6aa18b90ae3c3a2fee77270416bf52"
+    "hwidmatch_sha1": "45fb2ba185cfe9052bf79d73c35afd8a513507cd"
   },
   {
     "hwid_base": "JAQ",
     "name": "Xolo Chromebook",
     "desc": "Pinky 11.6\" consumer",
-    "hwidmatch_sha1": "8ce9710cb4ab25a1b09cbb2f80361dd684bc209d"
+    "hwidmatch_sha1": "b666443ce37d06214883c0db5a1947d58c056c61"
   },
   {
     "hwid_base": "JERRY",
@@ -207,13 +255,13 @@
     "hwid_base": "JERRY",
     "name": "HiSense Chromebook 11",
     "desc": "11.6\" White-label Pinky",
-    "hwidmatch_sha1": "88488e5028a099e7bf952795065c09854b808875"
+    "hwidmatch_sha1": "117436a534e4ffa27e3d572d794e0de9976de48a"
   },
   {
     "hwid_base": "JERRY",
     "name": "NComputing Chromebook CX100",
     "desc": "11.6\" Whitelabel PInky",
-    "hwidmatch_sha1": "c7e19dd06be06867029a58b29267b3df7b597c90"
+    "hwidmatch_sha1": "b9c1fdfa322c19fc8869685bfa32ca4e177835b1"
   },
   {
     "hwid_base": "JERRY",
@@ -225,7 +273,7 @@
     "hwid_base": "JERRY",
     "name": "eduGear Chromebook K Series",
     "desc": "11.6\" White-label Pinky",
-    "hwidmatch_sha1": "ef70fb93d03d4c11efef23e39582319f8fb9c15b"
+    "hwidmatch_sha1": "0a5c430716ecfe1c5de4f4a247263513ffb4d4ca"
   },
   {
     "hwid_base": "KIP",
@@ -285,49 +333,49 @@
     "hwid_base": "MIGHTY",
     "name": "Chromebook PCM-116E",
     "desc": "PCmerge Chromebook PCM-116E",
-    "hwidmatch_sha1": "59f406517f36442911b52f83735df34066e8701b"
+    "hwidmatch_sha1": "4116c8988218a8c59e445061362fd1c680ce9954"
   },
   {
     "hwid_base": "MIGHTY",
     "name": "Haier Chromebook 11e",
     "desc": "11.6\" EDU Pinky",
-    "hwidmatch_sha1": "d3d861ac42360313b8e5f41dd3ad3de2527321df"
+    "hwidmatch_sha1": "439244ad956e24258df1052d1c828ee59c5d24d0"
   },
   {
     "hwid_base": "MIGHTY",
     "name": "Lumos Education Chromebook",
     "desc": "11.6\" Edxis EDU Chromebook",
-    "hwidmatch_sha1": "19a2320bcdedc3f079dfb304d8a9c40fefc5e433"
+    "hwidmatch_sha1": "1a78714c70df5eebf953aa9c8ef10c2c1a8de8ae"
   },
   {
     "hwid_base": "MIGHTY",
     "name": "MEDION Chromebook S2015",
     "desc": "11.6\" Chromebook from MEDION",
-    "hwidmatch_sha1": "248e41027cade013591d39b4afb4ca3ede4fb764"
+    "hwidmatch_sha1": "603428718e65592d60cc3e25984b4de37c88b2c9"
   },
   {
     "hwid_base": "MIGHTY",
     "name": "Nexian Chromebook 11.6-inch",
     "desc": "11.6\" EDU Pinky",
-    "hwidmatch_sha1": "fd4389cd10e84d8ce2a11f681d3656775ccb22e2"
+    "hwidmatch_sha1": "1d05499d26765184a4e16758681351f2aa0edacd"
   },
   {
     "hwid_base": "MIGHTY",
     "name": "Sector 5 E1 Rugged Chromebook",
     "desc": "11.6\" EDU Pinky",
-    "hwidmatch_sha1": "3e83a35ddffa8955b2f22a7922b6fd847d2299c8"
+    "hwidmatch_sha1": "80d2f31136ca474063bc190eff8877f84d4df9be"
   },
   {
     "hwid_base": "MIGHTY",
     "name": "Viglen Chromebook 11",
     "desc": "11.6\" rugged pinky",
-    "hwidmatch_sha1": "4b3a2bb823216f0228c7f64002a44107a45e2b18"
+    "hwidmatch_sha1": "e3d4fcc4f7ab73a3b241a89d36aa9b9c1ab9905c"
   },
   {
     "hwid_base": "MIGHTY",
     "name": "eduGear Chromebook M Series",
     "desc": "11.6\" EDU Pinky",
-    "hwidmatch_sha1": "2d0394c645266c98407414eff5baa10c5ca38bea"
+    "hwidmatch_sha1": "69f399f73ee34fe8696322ee80bad60e640545ec"
   },
   {
     "hwid_base": "MINNIE",
@@ -346,12 +394,6 @@
     "name": "AOpen Chromebox Commercial",
     "desc": "BYT-M Chromebox",
     "hwidmatch_sha1": "9cf933513ba090393b297bd9c27f63b178c8b902"
-  },
-  {
-    "hwid_base": "NOTHING",
-    "name": "Acer Chromebook 11 (C730E)",
-    "desc": "11\" chromebook \"Hugo_EDU\" for EDU",
-    "hwidmatch_sha1": "d68cd7603ed744552520074c12e896d6a7a494ab"
   },
   {
     "hwid_base": "ORCO",
