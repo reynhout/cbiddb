@@ -259,12 +259,6 @@
   },
   {
     "hwid_base": "JERRY",
-    "name": "NComputing Chromebook CX100",
-    "desc": "11.6\" Whitelabel PInky",
-    "hwidmatch_sha1": "b9c1fdfa322c19fc8869685bfa32ca4e177835b1"
-  },
-  {
-    "hwid_base": "JERRY",
     "name": "Poin2 Chromebook 11",
     "desc": "11.6\" White-label Pinky",
     "hwidmatch_sha1": "401c9bea059352ce2d9a3b8bad9835bac4cd88f9"
@@ -277,8 +271,8 @@
   },
   {
     "hwid_base": "KIP",
-    "name": "HP Chromebook 11 2100-2299 / HP Chromebook 11 G3/G4",
-    "desc": "HP 11\" BYT laptop",
+    "name": "HP Chromebook 11 2200-2299 / HP Chromebook 11 G4/G4 EE",
+    "desc": "HP 11\" BYT laptop (Dasani 1.0)",
     "hwidmatch_sha1": "d6d661f8196118e6ed681a7a3e2ec4b11d12f198"
   },
   {
@@ -394,6 +388,12 @@
     "name": "AOpen Chromebox Commercial",
     "desc": "BYT-M Chromebox",
     "hwidmatch_sha1": "9cf933513ba090393b297bd9c27f63b178c8b902"
+  },
+  {
+    "hwid_base": "NO",
+    "name": "HP Chromebook 11 2100-2199 / HP Chromebook 11 G3",
+    "desc": "HP 11\" BYT laptop (Peach 2.0)",
+    "hwidmatch_sha1": "c69f7690c22f784d9286f31e75d28e02dacad35f"
   },
   {
     "hwid_base": "ORCO",
