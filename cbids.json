@@ -12,12 +12,6 @@
     "hwidmatch_sha1": "08d8ac099973049c3b4247aecbdcc9f4dd61e8af"
   },
   {
-    "hwid_base": "ARKHAM",
-    "name": "OnHub SRT-AC1900",
-    "desc": "ASUS OnHub router",
-    "hwidmatch_sha1": "49e01d79e8e146d8e665f39428a57dc24f59ce31"
-  },
-  {
     "hwid_base": "BANJO",
     "name": "Acer Chromebook 15.6\" (CB3-531)",
     "desc": "15.6\" BYT Chromebook",
@@ -562,12 +556,6 @@
     "name": "ThinkPad 11e Chromebook 3rd Gen (Yoga/Clamshell)",
     "desc": "Lenovo 11.6\" convertible and 180",
     "hwidmatch_sha1": "ddd603278d007e40b93c85efb4042f18f267d51f"
-  },
-  {
-    "hwid_base": "WHIRLWIND",
-    "name": "OnHub TGR 1900",
-    "desc": "whirlwind OnHub device",
-    "hwidmatch_sha1": "e998b5b68bd0819f1d6caf2e72886d7871bcdccf"
   },
   {
     "hwid_base": "WINKY",
