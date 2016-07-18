@@ -104,7 +104,7 @@
   {
     "hwid_base": "ENGUARDE",
     "name": "Lenovo N21 Chromebook",
-    "desc": "BYT-M Chromebook",
+    "desc": "BYT-M Chromebook (enguarde w/ different battery)",
     "hwidmatch_sha1": "376c657281a016e5550d654b4c915d3d9644cbae"
   },
   {
@@ -282,6 +282,12 @@
     "hwidmatch_sha1": "b34f5d63fb7903ea60b26a81f776d45c3e1fbcff"
   },
   {
+    "hwid_base": "LARS",
+    "name": "Acer Chromebook 14 for Work",
+    "desc": "Acer 14\" SKL-U in 13\" chassis",
+    "hwidmatch_sha1": "69407f798259baaf501f0b4ccd597d4b6d5c6b52"
+  },
+  {
     "hwid_base": "LEON",
     "name": "Toshiba Chromebook",
     "desc": "toshiba haswell follon-on project",
@@ -373,9 +379,15 @@
   },
   {
     "hwid_base": "MONROE",
-    "name": "LG Chromebase",
-    "desc": "lg beltino based AIO",
-    "hwidmatch_sha1": "660d49cdeabc6b471306a9b39caaf71fefa8ff89"
+    "name": "LG Chromebase 22CB25S",
+    "desc": "LG Beltino based AIO 4GB version",
+    "hwidmatch_sha1": "e8d56307712250ec088180d63d74c2624a62dec3"
+  },
+  {
+    "hwid_base": "MONROE",
+    "name": "LG Chromebase 22CV241",
+    "desc": "LG beltino based AIO",
+    "hwidmatch_sha1": "b6b963f42126e05562598a3c85143c5300c8b852"
   },
   {
     "hwid_base": "NINJA",
@@ -445,9 +457,9 @@
   },
   {
     "hwid_base": "REKS",
-    "name": "Lenovo N22 Chromebook",
-    "desc": "Lenovo N22 11.6\" BSW EDU",
-    "hwidmatch_sha1": "1e98d3e8e8c6090b87ba11f6c8f9579faf3d6211"
+    "name": "Lenovo N22 (Touch) Chromebook",
+    "desc": "Lenovo N22 11.6\" BSW EDU Touch and Non-Touch",
+    "hwidmatch_sha1": "bcd7b97c2df076e012535749ba04307f84b8981a"
   },
   {
     "hwid_base": "RIKKU",
@@ -472,6 +484,18 @@
     "name": "Google Chromebook Pixel (2015)",
     "desc": "rev of pixel",
     "hwidmatch_sha1": "6974341cf2c834ea914b7d14fee5018fe73622a6"
+  },
+  {
+    "hwid_base": "SENTRY",
+    "name": "Thinkpad 13 Chromebook",
+    "desc": "Lenovo 13\" SKL-U Clamshell (non touch and touch models)",
+    "hwidmatch_sha1": "1090d6a25b08ef7802bcfb3d3d2d0e474330a7c1"
+  },
+  {
+    "hwid_base": "SETZER",
+    "name": "HP Chromebook 11 G5 / HP Chromebook 11-vxxx",
+    "desc": "HP 11\" BSW Chromebook.",
+    "hwidmatch_sha1": "554b495ce50bfb0efe923214cd520ab583ff6177"
   },
   {
     "hwid_base": "SKATE",
@@ -554,7 +578,7 @@
   {
     "hwid_base": "ULTIMA",
     "name": "ThinkPad 11e Chromebook 3rd Gen (Yoga/Clamshell)",
-    "desc": "Lenovo 11.6\" convertible and 180",
+    "desc": "Lenovo 11.6\" convertible and Clamshell",
     "hwidmatch_sha1": "ddd603278d007e40b93c85efb4042f18f267d51f"
   },
   {
