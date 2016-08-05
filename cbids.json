@@ -67,7 +67,7 @@
   },
   {
     "hwid_base": "CYAN",
-    "name": "OriginsT / Acer Chromebook R11 (C738T)",
+    "name": "Acer Chromebook R11 (C738T)",
     "desc": "CyanT - Braswell 11\" convertible (announced on 9/2/2015 at IFA)",
     "hwidmatch_sha1": "8c24c6283e2e84bf0fc3a4bedce81d572a0d3e79"
   },
@@ -560,7 +560,7 @@
   {
     "hwid_base": "TERRA13",
     "name": "ASUS CHROMEBOOK C300SA",
-    "desc": "FSI is M49, NOT M48.",
+    "desc": "ASUS CHROMEBOOK C300SA",
     "hwidmatch_sha1": "31f19c15e015284f8f5f6e1271be9e853029e843"
   },
   {
