@@ -18,6 +18,12 @@
     "hwidmatch_sha1": "5a23e8bf694170d37050222d2cab5f22df76c7bd"
   },
   {
+    "hwid_base": "BANON",
+    "name": "Acer 15.6\" Chromebook",
+    "desc": "Acer 15.6\" BSW Banjo refresh",
+    "hwidmatch_sha1": "ea4cbbd3388825328072bec3fb928d25a775b3d0"
+  },
+  {
     "hwid_base": "BIG",
     "name": "Acer Chromebook 13 (CB5-311)",
     "desc": "Acer Tegra T124 laptop",
@@ -67,7 +73,7 @@
   },
   {
     "hwid_base": "CYAN",
-    "name": "Acer Chromebook R11 (C738T)",
+    "name": "Acer Chromebook R11",
     "desc": "CyanT - Braswell 11\" convertible (announced on 9/2/2015 at IFA)",
     "hwidmatch_sha1": "8c24c6283e2e84bf0fc3a4bedce81d572a0d3e79"
   },
@@ -76,6 +82,12 @@
     "name": "Sanance / Chromebook 14 (CB3-431)",
     "desc": "Acer Sanance 14\" BSW Narrow Bezel Metal-Slim chassis Chromebook.",
     "hwidmatch_sha1": "03dc64e83dd8fadb2f52a7e408522984a3993d60"
+  },
+  {
+    "hwid_base": "ELM",
+    "name": "Acer Chromebook R13",
+    "desc": "Acer 13.3\" MTK Convertible.  Lead MTK/Oak device.",
+    "hwidmatch_sha1": "6be125b509539a1331b7b9995c9dfe1a63a7c27b"
   },
   {
     "hwid_base": "ENGUARDE",
@@ -250,6 +262,12 @@
     "name": "HiSense Chromebook 11",
     "desc": "11.6\" White-label Pinky",
     "hwidmatch_sha1": "117436a534e4ffa27e3d572d794e0de9976de48a"
+  },
+  {
+    "hwid_base": "JERRY",
+    "name": "NComputing Chromebook CX100",
+    "desc": "11.6\" Whitelabel PInky",
+    "hwidmatch_sha1": "b9c1fdfa322c19fc8869685bfa32ca4e177835b1"
   },
   {
     "hwid_base": "JERRY",
@@ -586,6 +604,18 @@
     "name": "Samsung Chromebook 2 11 - XE500C12",
     "desc": "Samsung Bay Trail M Rambi-based laptop",
     "hwidmatch_sha1": "6679846417b88e85c619ba671c3b4e129d0b205f"
+  },
+  {
+    "hwid_base": "WIZPIG",
+    "name": "CTL Chromebook J5",
+    "desc": "Haier 11\" Convertible (LOEM = CTL)",
+    "hwidmatch_sha1": "cf7ba82ba606170fb3d4db3c6a75fc488057a5de"
+  },
+  {
+    "hwid_base": "WIZPIG",
+    "name": "Edugear CMT Chromebook",
+    "desc": "Haier 11\" Convertible (LOEM = CDI)",
+    "hwidmatch_sha1": "bf367b1913efd62364a16d5a9508e16aabb95db9"
   },
   {
     "hwid_base": "WOLF",
