@@ -344,7 +344,7 @@
   {
     "hwid_base": "MIGHTY",
     "name": "Chromebook PCM-116E",
-    "desc": "PCmerge Chromebook PCM-116E",
+    "desc": "PCmerge Chromebook PCM-116E/PCM-116EB",
     "hwidmatch_sha1": "4116c8988218a8c59e445061362fd1c680ce9954"
   },
   {
@@ -480,6 +480,12 @@
     "hwidmatch_sha1": "bcd7b97c2df076e012535749ba04307f84b8981a"
   },
   {
+    "hwid_base": "REKS",
+    "name": "Lenovo N42 (Touch) Chromebook",
+    "desc": "Lenovo N42 14\" BSW EDU Touch and Non-touch",
+    "hwidmatch_sha1": "27e18096f0f6daf12d0daa022623059e94c83875"
+  },
+  {
     "hwid_base": "RIKKU",
     "name": "Acer Chromebox CXI2",
     "desc": "Broadwell Box",
@@ -607,7 +613,7 @@
   },
   {
     "hwid_base": "WIZPIG",
-    "name": "CTL Chromebook J5",
+    "name": "CTL J5 Chromebook",
     "desc": "Haier 11\" Convertible (LOEM = CTL)",
     "hwidmatch_sha1": "cf7ba82ba606170fb3d4db3c6a75fc488057a5de"
   },
