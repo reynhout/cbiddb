@@ -486,6 +486,24 @@
     "hwidmatch_sha1": "27e18096f0f6daf12d0daa022623059e94c83875"
   },
   {
+    "hwid_base": "RELM",
+    "name": "CTL NL61 Chromebook",
+    "desc": "An 11\" BSW Clamshell for CTL",
+    "hwidmatch_sha1": "48e36edc51608f46a0f5f9bc10cbbba3ce1b176c"
+  },
+  {
+    "hwid_base": "RELM",
+    "name": "Edxis Education Chromebook",
+    "desc": "An 11.6\" BSW Clamshell for Edxis",
+    "hwidmatch_sha1": "691e5529780e9a1f136bc3f8e49c2de1b0373de3"
+  },
+  {
+    "hwid_base": "RELM",
+    "name": "N/A",
+    "desc": "An 11.6\" WL Clamshell EDU device from Quanta",
+    "hwidmatch_sha1": "66588bcaddec602149309705c2d9dcae5e390838"
+  },
+  {
     "hwid_base": "RIKKU",
     "name": "Acer Chromebox CXI2",
     "desc": "Broadwell Box",
