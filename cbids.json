@@ -642,6 +642,18 @@
     "hwidmatch_sha1": "bf367b1913efd62364a16d5a9508e16aabb95db9"
   },
   {
+    "hwid_base": "WIZPIG",
+    "name": "Haier Convertible Chromebook 11 C",
+    "desc": "BSW 11\" Haier EDU",
+    "hwidmatch_sha1": "c44a2f32b888682d6afbbaa712c20e90303471a3"
+  },
+  {
+    "hwid_base": "WIZPIG",
+    "name": "Prowise Chromebook",
+    "desc": "Haier 11\" Convertible (LOEM = PROWISE)",
+    "hwidmatch_sha1": "abced9618d67bee072cdf82b36d6d53a64947c65"
+  },
+  {
     "hwid_base": "WOLF",
     "name": "Dell Chromebook 11",
     "desc": "dell haswell follow-on project",
