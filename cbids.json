@@ -259,6 +259,12 @@
   },
   {
     "hwid_base": "JERRY",
+    "name": "Epik 11.6″ Chromebook  ELB1101",
+    "desc": "11.6\" Whitelabel PInky",
+    "hwidmatch_sha1": "e36bc0c6266277513e18bff4bbb83f8e6f798cb6"
+  },
+  {
+    "hwid_base": "JERRY",
     "name": "HiSense Chromebook 11",
     "desc": "11.6\" White-label Pinky",
     "hwidmatch_sha1": "117436a534e4ffa27e3d572d794e0de9976de48a"
@@ -477,7 +483,7 @@
     "hwid_base": "REKS",
     "name": "Lenovo N22 (Touch) Chromebook",
     "desc": "Lenovo N22 11.6\" BSW EDU Touch and Non-Touch",
-    "hwidmatch_sha1": "bcd7b97c2df076e012535749ba04307f84b8981a"
+    "hwidmatch_sha1": "e495fc51f2071d995fa839a498f381e4e1583259"
   },
   {
     "hwid_base": "REKS",
