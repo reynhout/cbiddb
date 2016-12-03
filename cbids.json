@@ -13,13 +13,13 @@
   },
   {
     "hwid_base": "BANJO",
-    "name": "Acer Chromebook 15.6\" (CB3-531)",
+    "name": "Acer Chromebook 15 (CB3-531)",
     "desc": "",
     "hwidmatch_sha1": "5a23e8bf694170d37050222d2cab5f22df76c7bd"
   },
   {
     "hwid_base": "BANON",
-    "name": "Acer 15.6\" Chromebook (CB3-532)",
+    "name": "Acer Chromebook 15 (CB3-532)",
     "desc": "",
     "hwidmatch_sha1": "ea4cbbd3388825328072bec3fb928d25a775b3d0"
   },
@@ -652,6 +652,12 @@
     "name": "Haier Convertible Chromebook 11 C",
     "desc": "",
     "hwidmatch_sha1": "c44a2f32b888682d6afbbaa712c20e90303471a3"
+  },
+  {
+    "hwid_base": "WIZPIG",
+    "name": "PCMerge Chromebook PCM-116T-432B",
+    "desc": "",
+    "hwidmatch_sha1": "b8ea35a2c29409596945fbb575302ff96e3cea0e"
   },
   {
     "hwid_base": "WIZPIG",
