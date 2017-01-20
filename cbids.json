@@ -54,6 +54,12 @@
     "hwidmatch_sha1": "7e1e350538fc97a39791dd58d13e09a1550d5a5b"
   },
   {
+    "hwid_base": "CAVE",
+    "name": "ASUS Chromebook Flip C302",
+    "desc": "",
+    "hwidmatch_sha1": "ecb0eced06f1b37594f41efa5edee68adcd71378"
+  },
+  {
     "hwid_base": "CELES",
     "name": "Samsung Chromebook 3",
     "desc": "",
@@ -271,6 +277,12 @@
   },
   {
     "hwid_base": "JERRY",
+    "name": "Mecer Chromebook",
+    "desc": "",
+    "hwidmatch_sha1": "a38e7b9153199b7acbc7a627253c22e18f2dbc2f"
+  },
+  {
+    "hwid_base": "JERRY",
     "name": "NComputing Chromebook CX100",
     "desc": "",
     "hwidmatch_sha1": "b9c1fdfa322c19fc8869685bfa32ca4e177835b1"
@@ -483,7 +495,7 @@
     "hwid_base": "REKS",
     "name": "Lenovo N22 (Touch) Chromebook",
     "desc": "",
-    "hwidmatch_sha1": "e495fc51f2071d995fa839a498f381e4e1583259"
+    "hwidmatch_sha1": "f0c99c3469d96ed53c97c7ed8a959439a29f7197"
   },
   {
     "hwid_base": "REKS",
@@ -502,6 +514,12 @@
     "name": "Edxis Education Chromebook",
     "desc": "",
     "hwidmatch_sha1": "691e5529780e9a1f136bc3f8e49c2de1b0373de3"
+  },
+  {
+    "hwid_base": "RELM",
+    "name": "HP Chromebook 11 G5 EE",
+    "desc": "",
+    "hwidmatch_sha1": "5562b05555fbad96463b1225af4096d7c1fa21b7"
   },
   {
     "hwid_base": "RELM",
@@ -664,6 +682,12 @@
     "name": "Prowise Chromebook",
     "desc": "",
     "hwidmatch_sha1": "abced9618d67bee072cdf82b36d6d53a64947c65"
+  },
+  {
+    "hwid_base": "WIZPIG",
+    "name": "Viglen Chromebook 360",
+    "desc": "",
+    "hwidmatch_sha1": "78d0d8f4d708decedc804444b5d64e00bcd7a8c0"
   },
   {
     "hwid_base": "WOLF",
