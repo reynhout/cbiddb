@@ -217,7 +217,7 @@
   },
   {
     "hwid_base": "GUADO",
-    "name": "Asus Chromebox CN62",
+    "name": "ASUS Chromebox CN62",
     "desc": "",
     "hwidmatch_sha1": "4789ee322afdf422298562f72b27698efbc47baf"
   },
@@ -300,6 +300,12 @@
     "hwidmatch_sha1": "0a5c430716ecfe1c5de4f4a247263513ffb4d4ca"
   },
   {
+    "hwid_base": "KEVIN",
+    "name": "Samsung Chromebook Plus",
+    "desc": "",
+    "hwidmatch_sha1": "274846b6d8f0f1248c0ab1848d72359ad944caa0"
+  },
+  {
     "hwid_base": "KIP",
     "name": "HP Chromebook 11 2200-2299 / HP Chromebook 11 G4/G4 EE",
     "desc": "",
@@ -355,7 +361,7 @@
   },
   {
     "hwid_base": "MICKEY",
-    "name": "Asus Chromebit CS10",
+    "name": "ASUS Chromebit CS10",
     "desc": "",
     "hwidmatch_sha1": "6b3bc0c92c6ec16d911bce39cdb6556d1de76c15"
   },
@@ -487,7 +493,7 @@
   },
   {
     "hwid_base": "QUAWKS",
-    "name": "Asus Chromebook C300",
+    "name": "ASUS Chromebook C300",
     "desc": "",
     "hwidmatch_sha1": "a6a64060d44fa4848dfafc6d3a0b5259ce34fe7b"
   },
@@ -520,6 +526,12 @@
     "name": "HP Chromebook 11 G5 EE",
     "desc": "",
     "hwidmatch_sha1": "5562b05555fbad96463b1225af4096d7c1fa21b7"
+  },
+  {
+    "hwid_base": "RELM",
+    "name": "Mecer V2 Chromebook",
+    "desc": "",
+    "hwidmatch_sha1": "3d6450a9384054c4880250024d42fe9817166563"
   },
   {
     "hwid_base": "RELM",
@@ -589,7 +601,7 @@
   },
   {
     "hwid_base": "SQUAWKS",
-    "name": "Asus Chromebook C200",
+    "name": "ASUS Chromebook C200",
     "desc": "",
     "hwidmatch_sha1": "776011625c790fdd486f3c52dadd7f3824eb9e0c"
   },
@@ -619,13 +631,13 @@
   },
   {
     "hwid_base": "TERRA",
-    "name": "ASUS CHROMEBOOOK C202SA",
+    "name": "ASUS Chromebook C202SA",
     "desc": "",
     "hwidmatch_sha1": "fb6431ee7a7923b13a1f2a2db38fd9afee6cff06"
   },
   {
     "hwid_base": "TERRA13",
-    "name": "ASUS CHROMEBOOK C300SA",
+    "name": "ASUS Chromebook C300SA",
     "desc": "",
     "hwidmatch_sha1": "31f19c15e015284f8f5f6e1271be9e853029e843"
   },
