@@ -12,6 +12,12 @@
     "hwidmatch_sha1": "08d8ac099973049c3b4247aecbdcc9f4dd61e8af"
   },
   {
+    "hwid_base": "ASUKA",
+    "name": "Dell Chromebook 13",
+    "desc": "",
+    "hwidmatch_sha1": "0e79563edf93dc23c4bfcb7ee39cb68bfc905447"
+  },
+  {
     "hwid_base": "BANJO",
     "name": "Acer Chromebook 15 (CB3-531)",
     "desc": "",
@@ -79,7 +85,7 @@
   },
   {
     "hwid_base": "CYAN",
-    "name": "Acer Chromebook R11",
+    "name": "Acer Chromebook R11 (CB5-132T / C738T)",
     "desc": "",
     "hwidmatch_sha1": "8c24c6283e2e84bf0fc3a4bedce81d572a0d3e79"
   },
@@ -91,7 +97,7 @@
   },
   {
     "hwid_base": "ELM",
-    "name": "Acer Chromebook R13",
+    "name": "Acer Chromebook R13 (CB5-312T)",
     "desc": "",
     "hwidmatch_sha1": "6be125b509539a1331b7b9995c9dfe1a63a7c27b"
   },
@@ -190,6 +196,12 @@
     "name": "HP Chromebook 14 q000-q099 WP2 / HP Chromebook 14-SMB Intel Corp",
     "desc": "",
     "hwidmatch_sha1": "502419be406520706609fecf6f9525426c34e5e8"
+  },
+  {
+    "hwid_base": "FIEVEL",
+    "name": "AOpen Chromebox Mini",
+    "desc": "",
+    "hwidmatch_sha1": "f12ca70826f15dbaecbecc2942c321dfb019d1f7"
   },
   {
     "hwid_base": "GANDOF",
@@ -298,6 +310,18 @@
     "name": "eduGear Chromebook K Series",
     "desc": "",
     "hwidmatch_sha1": "0a5c430716ecfe1c5de4f4a247263513ffb4d4ca"
+  },
+  {
+    "hwid_base": "KEFKA",
+    "name": "Chromebook 11 Model 3180",
+    "desc": "",
+    "hwidmatch_sha1": "582436bdcc92da07ee3c1894c991570de5254db0"
+  },
+  {
+    "hwid_base": "KEFKA",
+    "name": "Dell Chromebook 11 Model 3189",
+    "desc": "",
+    "hwidmatch_sha1": "0b9fff93b1962d57b1c7ac9bc5a47938ed714020"
   },
   {
     "hwid_base": "KEVIN",
@@ -451,7 +475,7 @@
   },
   {
     "hwid_base": "PAINE",
-    "name": "Acer C740 Chromebook",
+    "name": "Acer Chromebook 11 (C740)",
     "desc": "",
     "hwidmatch_sha1": "ff1b116909c57f6e5d56f2ca854fe12443fab5bb"
   },
@@ -646,6 +670,12 @@
     "name": "Lenovo ThinkCentre Chromebox",
     "desc": "",
     "hwidmatch_sha1": "1b7a75accd8bba8bb3e19b8f1cda92b0f73a3d7d"
+  },
+  {
+    "hwid_base": "TIGER",
+    "name": "AOpen Chromebase Mini",
+    "desc": "",
+    "hwidmatch_sha1": "39584799f7555f64a1489548f7d1193b4121e6cd"
   },
   {
     "hwid_base": "TRICKY",
