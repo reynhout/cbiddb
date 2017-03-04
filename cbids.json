@@ -13,7 +13,7 @@
   },
   {
     "hwid_base": "ASUKA",
-    "name": "Dell Chromebook 13",
+    "name": "Dell Chromebook 13 3380",
     "desc": "",
     "hwidmatch_sha1": "0e79563edf93dc23c4bfcb7ee39cb68bfc905447"
   },
@@ -319,7 +319,7 @@
   },
   {
     "hwid_base": "KEFKA",
-    "name": "Dell Chromebook 11 Model 3189",
+    "name": "Dell Chromebook 11 3189",
     "desc": "",
     "hwidmatch_sha1": "0b9fff93b1962d57b1c7ac9bc5a47938ed714020"
   },
@@ -532,6 +532,12 @@
     "name": "Lenovo N42 (Touch) Chromebook",
     "desc": "",
     "hwidmatch_sha1": "27e18096f0f6daf12d0daa022623059e94c83875"
+  },
+  {
+    "hwid_base": "RELM",
+    "name": "Acer Chromebook 11 N7 (C731)",
+    "desc": "",
+    "hwidmatch_sha1": "fe11b2d1287b84305174ac8867ef562638d79b88"
   },
   {
     "hwid_base": "RELM",
