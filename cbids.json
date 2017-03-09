@@ -619,7 +619,7 @@
   },
   {
     "hwid_base": "SPEEDY",
-    "name": "ASUS Chromebook C201",
+    "name": "ASUS Chromebook C201PA",
     "desc": "",
     "hwidmatch_sha1": "2b4a798d2bb13ea2afbc5700abf7fb88e635c134"
   },
@@ -667,7 +667,7 @@
   },
   {
     "hwid_base": "TERRA13",
-    "name": "ASUS Chromebook C300SA",
+    "name": "ASUS Chromebook C300SA/C301SA",
     "desc": "",
     "hwidmatch_sha1": "31f19c15e015284f8f5f6e1271be9e853029e843"
   },
