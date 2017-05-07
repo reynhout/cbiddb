@@ -223,7 +223,7 @@
   },
   {
     "hwid_base": "GNAWTY",
-    "name": "Olay / Chromebook 11 (C735)",
+    "name": "Chromebook 11 (C735)",
     "desc": "",
     "hwidmatch_sha1": "9d15cae4212e36ea0d95366ae1ac93e66ee81202"
   },
@@ -232,6 +232,12 @@
     "name": "ASUS Chromebox CN62",
     "desc": "",
     "hwidmatch_sha1": "4789ee322afdf422298562f72b27698efbc47baf"
+  },
+  {
+    "hwid_base": "HANA",
+    "name": "Lenovo N23 Yoga/Flex 11 Chromebook",
+    "desc": "",
+    "hwidmatch_sha1": "d21f870ebc1849ed85b13102324917a701667d92"
   },
   {
     "hwid_base": "HELI",
@@ -304,6 +310,12 @@
     "name": "Poin2 Chromebook 11",
     "desc": "",
     "hwidmatch_sha1": "401c9bea059352ce2d9a3b8bad9835bac4cd88f9"
+  },
+  {
+    "hwid_base": "JERRY",
+    "name": "Positivo Chromebook CH1190",
+    "desc": "",
+    "hwidmatch_sha1": "37844b12c25e0890258a2485e9243e98608188b2"
   },
   {
     "hwid_base": "JERRY",
@@ -421,6 +433,12 @@
   },
   {
     "hwid_base": "MIGHTY",
+    "name": "Prowise 11.6\" Entry Line Chromebook",
+    "desc": "",
+    "hwidmatch_sha1": "38b81447fbf5c7994d95190666d0e4800fdfc4df"
+  },
+  {
+    "hwid_base": "MIGHTY",
     "name": "Sector 5 E1 Rugged Chromebook",
     "desc": "",
     "hwidmatch_sha1": "80d2f31136ca474063bc190eff8877f84d4df9be"
@@ -526,6 +544,18 @@
     "name": "Lenovo N22 (Touch) Chromebook",
     "desc": "",
     "hwidmatch_sha1": "f0c99c3469d96ed53c97c7ed8a959439a29f7197"
+  },
+  {
+    "hwid_base": "REKS",
+    "name": "Lenovo N23 Chromebook",
+    "desc": "",
+    "hwidmatch_sha1": "a5b0ba0b80e51346075541046f2f9f0974458a24"
+  },
+  {
+    "hwid_base": "REKS",
+    "name": "Lenovo N23 Chromebook (Touch)",
+    "desc": "",
+    "hwidmatch_sha1": "1c8593d03e0f80f4eb498fb6561bcd49362b00ea"
   },
   {
     "hwid_base": "REKS",
@@ -727,7 +757,7 @@
   },
   {
     "hwid_base": "WIZPIG",
-    "name": "Prowise Chromebook",
+    "name": "Prowise ProLine Chromebook",
     "desc": "",
     "hwidmatch_sha1": "abced9618d67bee072cdf82b36d6d53a64947c65"
   },
@@ -745,7 +775,7 @@
   },
   {
     "hwid_base": "YUNA",
-    "name": "Acer Chromebook 15",
+    "name": "Acer Chromebook 15 (CB5-571)",
     "desc": "",
     "hwidmatch_sha1": "5aa803a8d82f2055c85c8b60ac895bc3a5473b7c"
   },
