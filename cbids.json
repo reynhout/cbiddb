@@ -60,6 +60,12 @@
     "hwidmatch_sha1": "7e1e350538fc97a39791dd58d13e09a1550d5a5b"
   },
   {
+    "hwid_base": "CAROLINE",
+    "name": "Samsung Chromebook Pro",
+    "desc": "",
+    "hwidmatch_sha1": "70f200419fd2e28e86e2c8212c22d80ef113d73f"
+  },
+  {
     "hwid_base": "CAVE",
     "name": "ASUS Chromebook Flip C302",
     "desc": "",
@@ -319,6 +325,12 @@
   },
   {
     "hwid_base": "JERRY",
+    "name": "VideoNet Chromebook BL10",
+    "desc": "",
+    "hwidmatch_sha1": "2836df4c54e24db434fe38f7c07820ca86ae7c45"
+  },
+  {
+    "hwid_base": "JERRY",
     "name": "eduGear Chromebook K Series",
     "desc": "",
     "hwidmatch_sha1": "0a5c430716ecfe1c5de4f4a247263513ffb4d4ca"
@@ -534,6 +546,12 @@
     "hwidmatch_sha1": "76bcabd6a59a8664187b2bf35f6a3317ecc69678"
   },
   {
+    "hwid_base": "PYRO",
+    "name": "Lenovo Thinkpad 11e Chromebook (4th Gen)/Lenovo Thinkpad Yoga 11e Chromebook (4th Gen)",
+    "desc": "",
+    "hwidmatch_sha1": "2ed1a9bc49cf2ccb5dc07aa680fccf345a95d41b"
+  },
+  {
     "hwid_base": "QUAWKS",
     "name": "ASUS Chromebook C300",
     "desc": "",
@@ -642,6 +660,12 @@
     "hwidmatch_sha1": "4e2345349b7e9362e0fcbaabdff8721524dd7b21"
   },
   {
+    "hwid_base": "SNAPPY",
+    "name": "HP Chromebook x360 11 G1 EE",
+    "desc": "",
+    "hwidmatch_sha1": "852f1ef1bf479153faebb32152694ecfd33a6dd0"
+  },
+  {
     "hwid_base": "SNOW",
     "name": "Samsung Chromebook",
     "desc": "",
@@ -693,13 +717,13 @@
     "hwid_base": "TERRA",
     "name": "ASUS Chromebook C202SA",
     "desc": "",
-    "hwidmatch_sha1": "fb6431ee7a7923b13a1f2a2db38fd9afee6cff06"
+    "hwidmatch_sha1": "07c30d133459d552fbe9a39c9133348cf50ad1ed"
   },
   {
-    "hwid_base": "TERRA13",
+    "hwid_base": "TERRA",
     "name": "ASUS Chromebook C300SA/C301SA",
     "desc": "",
-    "hwidmatch_sha1": "31f19c15e015284f8f5f6e1271be9e853029e843"
+    "hwidmatch_sha1": "25b6f0e0a65b281a366c0d59770c920a74796ac7"
   },
   {
     "hwid_base": "TIDUS",
