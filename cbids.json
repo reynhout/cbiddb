@@ -96,6 +96,12 @@
     "hwidmatch_sha1": "8c24c6283e2e84bf0fc3a4bedce81d572a0d3e79"
   },
   {
+    "hwid_base": "DOES",
+    "name": "Education Chromebook",
+    "desc": "",
+    "hwidmatch_sha1": "e5d2cc9a214b4c6dd6c53741529b46ec7c87b7f8"
+  },
+  {
     "hwid_base": "EDGAR",
     "name": "Chromebook 14 (CB3-431)",
     "desc": "",
@@ -130,6 +136,12 @@
     "name": "Edxis Education Chromebook",
     "desc": "",
     "hwidmatch_sha1": "65bad9fb9cfcdc7b438aa78d56200376fa816819"
+  },
+  {
+    "hwid_base": "ENGUARDE",
+    "name": "JP Sa Couto Chromebook",
+    "desc": "",
+    "hwidmatch_sha1": "2cd9ca675b46f14cd93cd04b7eaffed39d55fad7"
   },
   {
     "hwid_base": "ENGUARDE",
@@ -243,7 +255,7 @@
     "hwid_base": "HANA",
     "name": "Lenovo N23 Yoga/Flex 11 Chromebook",
     "desc": "",
-    "hwidmatch_sha1": "d21f870ebc1849ed85b13102324917a701667d92"
+    "hwidmatch_sha1": "3edfb6a59f88186de9db9ad093bed7abc5ca9749"
   },
   {
     "hwid_base": "HELI",
@@ -558,6 +570,12 @@
     "hwidmatch_sha1": "a6a64060d44fa4848dfafc6d3a0b5259ce34fe7b"
   },
   {
+    "hwid_base": "RAMBI",
+    "name": "Consumer Chromebook",
+    "desc": "",
+    "hwidmatch_sha1": "4ce4859fbfdbd78a5b6f9c7e244be5f6078ecc44"
+  },
+  {
     "hwid_base": "REKS",
     "name": "Lenovo N22 (Touch) Chromebook",
     "desc": "",
@@ -585,37 +603,37 @@
     "hwid_base": "RELM",
     "name": "Acer Chromebook 11 N7 (C731)",
     "desc": "",
-    "hwidmatch_sha1": "fe11b2d1287b84305174ac8867ef562638d79b88"
+    "hwidmatch_sha1": "8b036ec72932ddee2589e2822713df2e6bb255b6"
   },
   {
     "hwid_base": "RELM",
     "name": "CTL NL61 Chromebook",
     "desc": "",
-    "hwidmatch_sha1": "48e36edc51608f46a0f5f9bc10cbbba3ce1b176c"
+    "hwidmatch_sha1": "7d4808d1cc995447decd5c84c2e4ff039fc6ae5d"
   },
   {
     "hwid_base": "RELM",
     "name": "Edxis Education Chromebook",
     "desc": "",
-    "hwidmatch_sha1": "691e5529780e9a1f136bc3f8e49c2de1b0373de3"
+    "hwidmatch_sha1": "e87af76ff0ca31941d43dd0b33b503a54ec0b5f5"
   },
   {
     "hwid_base": "RELM",
     "name": "HP Chromebook 11 G5 EE",
     "desc": "",
-    "hwidmatch_sha1": "5562b05555fbad96463b1225af4096d7c1fa21b7"
+    "hwidmatch_sha1": "18f6fd0db7a583494c10d24eed90e45f251252e6"
   },
   {
     "hwid_base": "RELM",
     "name": "Mecer V2 Chromebook",
     "desc": "",
-    "hwidmatch_sha1": "3d6450a9384054c4880250024d42fe9817166563"
+    "hwidmatch_sha1": "761946f8d4f157e8a87e4955173f1f3730433b0d"
   },
   {
     "hwid_base": "RELM",
     "name": "N/A",
     "desc": "",
-    "hwidmatch_sha1": "66588bcaddec602149309705c2d9dcae5e390838"
+    "hwidmatch_sha1": "b79fa9734c3c38ed68666fb67e1ae5d5ce6b88c9"
   },
   {
     "hwid_base": "RIKKU",
