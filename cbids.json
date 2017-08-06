@@ -396,6 +396,12 @@
     "hwidmatch_sha1": "d0fe70361fb7e1a5c141e55694d2a33dbe45bf71"
   },
   {
+    "hwid_base": "LILI",
+    "name": "Acer Chromebook 11 (C771, C771T)",
+    "desc": "",
+    "hwidmatch_sha1": "636b3a8c0ce960a402a9d1ad74b365705ffa7549"
+  },
+  {
     "hwid_base": "LINK",
     "name": "Google Chromebook Pixel",
     "desc": "",
@@ -574,6 +580,18 @@
     "name": "Consumer Chromebook",
     "desc": "",
     "hwidmatch_sha1": "4ce4859fbfdbd78a5b6f9c7e244be5f6078ecc44"
+  },
+  {
+    "hwid_base": "REEF",
+    "name": "ASUS Chromebook C213NA",
+    "desc": "",
+    "hwidmatch_sha1": "ddddcb60851b3f06fdd86d7fc97be8f284886d4a"
+  },
+  {
+    "hwid_base": "REEF",
+    "name": "Acer Chromebook Spin 11 (R751T)",
+    "desc": "",
+    "hwidmatch_sha1": "3aca9e8c6abe0129629cfbe59d6f7c38018ed8f2"
   },
   {
     "hwid_base": "REKS",
