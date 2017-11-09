@@ -42,6 +42,12 @@
     "hwidmatch_sha1": "0776e3dbe91bdc9dd0519d08351fc82b7baf8bd6"
   },
   {
+    "hwid_base": "BOB",
+    "name": "ASUS Chromebook Flip C101PA",
+    "desc": "",
+    "hwidmatch_sha1": "a171f64abb3f21e445087d893fdde16f9eef4ad2"
+  },
+  {
     "hwid_base": "BUDDY",
     "name": "Acer Chromebase 24",
     "desc": "",
@@ -186,6 +192,12 @@
     "hwidmatch_sha1": "bb33dd66d089aaedf91cfa4cba90f23f2275b578"
   },
   {
+    "hwid_base": "EVE",
+    "name": "Google Pixelbook",
+    "desc": "",
+    "hwidmatch_sha1": "e98460e7721b6ee2f37a1484a951c007baeb157f"
+  },
+  {
     "hwid_base": "EXPRESSO",
     "name": "Bobicus Chromebook 11",
     "desc": "",
@@ -258,6 +270,12 @@
     "hwidmatch_sha1": "3edfb6a59f88186de9db9ad093bed7abc5ca9749"
   },
   {
+    "hwid_base": "HANA",
+    "name": "Poin2 Chromebook 14",
+    "desc": "",
+    "hwidmatch_sha1": "fe646e0cc34e8ba4db9b91d24b0f1bd8fbc72a52"
+  },
+  {
     "hwid_base": "HELI",
     "name": "Haier Chromebook 11 G2",
     "desc": "",
@@ -319,7 +337,7 @@
   },
   {
     "hwid_base": "JERRY",
-    "name": "NComputing Chromebook CX100",
+    "name": "NComputing Chromebook CX100/110",
     "desc": "",
     "hwidmatch_sha1": "b9c1fdfa322c19fc8869685bfa32ca4e177835b1"
   },
@@ -676,6 +694,12 @@
     "name": "Google Chromebook Pixel (2015)",
     "desc": "",
     "hwidmatch_sha1": "6974341cf2c834ea914b7d14fee5018fe73622a6"
+  },
+  {
+    "hwid_base": "SAND",
+    "name": "Chromebook 15 CB515-1HT/1H",
+    "desc": "",
+    "hwidmatch_sha1": "9e36ddf85e0ebf48fee25007512724b0930aa502"
   },
   {
     "hwid_base": "SENTRY",
