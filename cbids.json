@@ -271,6 +271,12 @@
   },
   {
     "hwid_base": "HANA",
+    "name": "Poin2 Chromebook 11C",
+    "desc": "",
+    "hwidmatch_sha1": "5a359e99235b992bf4d0bb2c3d8df1d4c90db403"
+  },
+  {
+    "hwid_base": "HANA",
     "name": "Poin2 Chromebook 14",
     "desc": "",
     "hwidmatch_sha1": "fe646e0cc34e8ba4db9b91d24b0f1bd8fbc72a52"
@@ -832,6 +838,12 @@
     "name": "Haier Convertible Chromebook 11 C",
     "desc": "",
     "hwidmatch_sha1": "c44a2f32b888682d6afbbaa712c20e90303471a3"
+  },
+  {
+    "hwid_base": "WIZPIG",
+    "name": "Multilaser M11C Chromebook",
+    "desc": "",
+    "hwidmatch_sha1": "1c56fa8eedf866a3ce876189be1e9d9b5825e7b7"
   },
   {
     "hwid_base": "WIZPIG",
