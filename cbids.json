@@ -273,7 +273,7 @@
     "hwid_base": "HANA",
     "name": "Poin2 Chromebook 11C",
     "desc": "",
-    "hwidmatch_sha1": "5a359e99235b992bf4d0bb2c3d8df1d4c90db403"
+    "hwidmatch_sha1": "655d70a7b1fb002145f3a4faf4410776f8d8f6d3"
   },
   {
     "hwid_base": "HANA",
@@ -595,7 +595,7 @@
   },
   {
     "hwid_base": "QUAWKS",
-    "name": "ASUS Chromebook C300",
+    "name": "ASUS Chromebook C300MA",
     "desc": "",
     "hwidmatch_sha1": "a6a64060d44fa4848dfafc6d3a0b5259ce34fe7b"
   },
@@ -727,9 +727,21 @@
   },
   {
     "hwid_base": "SNAPPY",
+    "name": "HP Chromebook 11 G6 EE",
+    "desc": "",
+    "hwidmatch_sha1": "3b16b355d0a06491f23b4045cb62a47899597119"
+  },
+  {
+    "hwid_base": "SNAPPY",
+    "name": "HP Chromebook 14 G5",
+    "desc": "",
+    "hwidmatch_sha1": "33787bc62b539fcc61a842742c38aa821b7e04b8"
+  },
+  {
+    "hwid_base": "SNAPPY",
     "name": "HP Chromebook x360 11 G1 EE",
     "desc": "",
-    "hwidmatch_sha1": "852f1ef1bf479153faebb32152694ecfd33a6dd0"
+    "hwidmatch_sha1": "22d73f8b086685f8f9b434e110400790625f9d76"
   },
   {
     "hwid_base": "SNOW",
@@ -751,7 +763,7 @@
   },
   {
     "hwid_base": "SQUAWKS",
-    "name": "ASUS Chromebook C200",
+    "name": "ASUS Chromebook C200MA",
     "desc": "",
     "hwidmatch_sha1": "776011625c790fdd486f3c52dadd7f3824eb9e0c"
   },
