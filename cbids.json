@@ -12,6 +12,12 @@
     "hwidmatch_sha1": "08d8ac099973049c3b4247aecbdcc9f4dd61e8af"
   },
   {
+    "hwid_base": "ASTRONAUT",
+    "name": "Acer Chromebook 11 (C732, C732T, C732L & C732LT )",
+    "desc": "",
+    "hwidmatch_sha1": "f324b94bc1af93f2032e8a1b3451a44496512507"
+  },
+  {
     "hwid_base": "ASUKA",
     "name": "Dell Chromebook 13 3380",
     "desc": "",
@@ -265,7 +271,7 @@
   },
   {
     "hwid_base": "HANA",
-    "name": "Lenovo N23 Yoga/Flex 11 Chromebook",
+    "name": "Lenovo 300e/N23 Yoga/Flex 11 Chromebook",
     "desc": "",
     "hwidmatch_sha1": "3edfb6a59f88186de9db9ad093bed7abc5ca9749"
   },
@@ -528,6 +534,18 @@
     "hwidmatch_sha1": "b6b963f42126e05562598a3c85143c5300c8b852"
   },
   {
+    "hwid_base": "NASHER",
+    "name": "Dell Chromebook 11 5190",
+    "desc": "",
+    "hwidmatch_sha1": "7c7c1bd3042065f177d63680fe22edf64d5b2266"
+  },
+  {
+    "hwid_base": "NASHER360",
+    "name": "Dell Chromebook 11 2-in-1 5190",
+    "desc": "",
+    "hwidmatch_sha1": "1a581d92236518fa9ee17593e34ad400f6e1af47"
+  },
+  {
     "hwid_base": "NINJA",
     "name": "AOpen Chromebox Commercial",
     "desc": "",
@@ -684,6 +702,18 @@
     "hwidmatch_sha1": "620ef6874d6065acb3c5fac7c1d31b43d222f949"
   },
   {
+    "hwid_base": "ROBO",
+    "name": "Lenovo 100e Chromebook",
+    "desc": "",
+    "hwidmatch_sha1": "246817f781a542fceb4578e8215c569dc7674ea7"
+  },
+  {
+    "hwid_base": "ROBO360",
+    "name": "Lenovo 500e Chromebook",
+    "desc": "",
+    "hwidmatch_sha1": "6363fe0e69509a61e6d450029eb8c6989574bc93"
+  },
+  {
     "hwid_base": "SAMS ALEX",
     "name": "Samsung Chromebook Series 5",
     "desc": "",
@@ -706,6 +736,12 @@
     "name": "Chromebook 15 CB515-1HT/1H",
     "desc": "",
     "hwidmatch_sha1": "9e36ddf85e0ebf48fee25007512724b0930aa502"
+  },
+  {
+    "hwid_base": "SANTA",
+    "name": "Acer Chromebook 11 (CB311-8H & CB311-8HT)",
+    "desc": "",
+    "hwidmatch_sha1": "74941d1a1590acdab1901e0baba62b95e68a4e13"
   },
   {
     "hwid_base": "SENTRY",
