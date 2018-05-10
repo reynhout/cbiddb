@@ -420,6 +420,12 @@
     "hwidmatch_sha1": "69407f798259baaf501f0b4ccd597d4b6d5c6b52"
   },
   {
+    "hwid_base": "LAVA",
+    "name": "Acer Chromebook Spin 11 (CP311-1H & CP311-1HN)",
+    "desc": "",
+    "hwidmatch_sha1": "6ce5b00983baad510a3639e1db179a8b533e728a"
+  },
+  {
     "hwid_base": "LEON",
     "name": "Toshiba Chromebook",
     "desc": "",
@@ -694,6 +700,12 @@
     "name": "N/A",
     "desc": "",
     "hwidmatch_sha1": "b79fa9734c3c38ed68666fb67e1ae5d5ce6b88c9"
+  },
+  {
+    "hwid_base": "RELM",
+    "name": "Positivo Chromebook C216B",
+    "desc": "",
+    "hwidmatch_sha1": "81e3bf3c1b5585ebef6e58ffbe509727ad90e25c"
   },
   {
     "hwid_base": "RIKKU",
