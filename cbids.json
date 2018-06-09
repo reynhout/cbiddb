@@ -390,6 +390,12 @@
     "hwidmatch_sha1": "0b9fff93b1962d57b1c7ac9bc5a47938ed714020"
   },
   {
+    "hwid_base": "KENCH",
+    "name": "HP Chromebox G2",
+    "desc": "",
+    "hwidmatch_sha1": "262880472f2663ee8fedee16f250db421a39c10e"
+  },
+  {
     "hwid_base": "KEVIN",
     "name": "Samsung Chromebook Plus",
     "desc": "",
@@ -768,6 +774,12 @@
     "hwidmatch_sha1": "554b495ce50bfb0efe923214cd520ab583ff6177"
   },
   {
+    "hwid_base": "SION",
+    "name": "Acer Chromebox CXI3",
+    "desc": "",
+    "hwidmatch_sha1": "35dca16aba39c6bb24ed708a7f6ff3df2546b945"
+  },
+  {
     "hwid_base": "SKATE",
     "name": "HP Chromebook 11 2000-2099 / HP Chromebook 11 G2",
     "desc": "",
@@ -796,6 +808,12 @@
     "name": "Samsung Chromebook",
     "desc": "",
     "hwidmatch_sha1": "2583cc70f983e0836d52f95076d2d8e90405ad7a"
+  },
+  {
+    "hwid_base": "SORAKA",
+    "name": "HP Chromebook x2",
+    "desc": "",
+    "hwidmatch_sha1": "e7377364e13f0e40e9315dfcc0013c8090c0e68b"
   },
   {
     "hwid_base": "SPEEDY",
@@ -838,6 +856,12 @@
     "name": "Toshiba Chromebook 2",
     "desc": "",
     "hwidmatch_sha1": "35bc2cf8d8feea795216115819ed0682ac965083"
+  },
+  {
+    "hwid_base": "TEEMO",
+    "name": "ASUS Chromebox 3",
+    "desc": "",
+    "hwidmatch_sha1": "27dd454d28f13a60985c0ae928e17d87c3f50bf0"
   },
   {
     "hwid_base": "TERRA",
@@ -928,6 +952,18 @@
     "name": "Dell Chromebook 11",
     "desc": "",
     "hwidmatch_sha1": "c507d02366997d203cc2c9897edcb8b525e28b1f"
+  },
+  {
+    "hwid_base": "WUKONG",
+    "name": "CTL Chromebox CBx1",
+    "desc": "",
+    "hwidmatch_sha1": "012409241ac5a191f46c1872d5b7e2c53b40fc01"
+  },
+  {
+    "hwid_base": "WUKONG",
+    "name": "ViewSonic NMP660 Chromebox",
+    "desc": "",
+    "hwidmatch_sha1": "1fcdba39edfc486567e286af980cf4906f9ad631"
   },
   {
     "hwid_base": "YUNA",
