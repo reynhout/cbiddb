@@ -48,10 +48,22 @@
     "hwidmatch_sha1": "0776e3dbe91bdc9dd0519d08351fc82b7baf8bd6"
   },
   {
+    "hwid_base": "BLUE",
+    "name": "Acer Chromebook 15 CB315-1H / 1HT",
+    "desc": "",
+    "hwidmatch_sha1": "fec27eb99b802d03d3f712dbe88478297b751221"
+  },
+  {
     "hwid_base": "BOB",
     "name": "ASUS Chromebook Flip C101PA",
     "desc": "",
     "hwidmatch_sha1": "a171f64abb3f21e445087d893fdde16f9eef4ad2"
+  },
+  {
+    "hwid_base": "BRUCE",
+    "name": "Acer Chromebook Spin 15 CP315-1H / 1HT",
+    "desc": "",
+    "hwidmatch_sha1": "00aa6d4b65632261ab11267094ceef29c6e9f62d"
   },
   {
     "hwid_base": "BUDDY",
@@ -112,6 +124,12 @@
     "name": "Education Chromebook",
     "desc": "",
     "hwidmatch_sha1": "e5d2cc9a214b4c6dd6c53741529b46ec7c87b7f8"
+  },
+  {
+    "hwid_base": "DRU",
+    "name": "Acer Chromebook Tab 10",
+    "desc": "",
+    "hwidmatch_sha1": "7a06b69c78fd174f682c45f25f4de1a9701cfe16"
   },
   {
     "hwid_base": "EDGAR",
@@ -558,6 +576,12 @@
     "hwidmatch_sha1": "1a581d92236518fa9ee17593e34ad400f6e1af47"
   },
   {
+    "hwid_base": "NAUTILUS",
+    "name": "Samsung Chromebook Plus (V2)",
+    "desc": "",
+    "hwidmatch_sha1": "c6f072ee70b4367fa2c09ac8c7048ac717ba134d"
+  },
+  {
     "hwid_base": "NINJA",
     "name": "AOpen Chromebox Commercial",
     "desc": "",
@@ -643,7 +667,7 @@
   },
   {
     "hwid_base": "REEF",
-    "name": "Acer Chromebook Spin 11 (R751T)",
+    "name": "Acer Chromebook Spin 11 (R751T / CP511)",
     "desc": "",
     "hwidmatch_sha1": "c0c5eb6dda6085054d0c1436a9b503d8cd5fa070"
   },
