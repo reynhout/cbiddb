@@ -24,6 +24,24 @@
     "hwidmatch_sha1": "c842a764d660e80e413d5a0e6a220338f577ee70"
   },
   {
+    "hwid_base": "ALEENA",
+    "name": "Acer Chromebook 315",
+    "desc": "",
+    "hwidmatch_sha1": "4f57dacdbbc505aca858104f5523ca861ebf8bd2"
+  },
+  {
+    "hwid_base": "AMPTON",
+    "name": "ASUS Chromebook Flip C214",
+    "desc": "",
+    "hwidmatch_sha1": "229d034b72c6726bab117415278b592ed3c2115c"
+  },
+  {
+    "hwid_base": "APEL",
+    "name": "ASUS Chromebook C204",
+    "desc": "",
+    "hwidmatch_sha1": "de24f8b2aed2bb192356b3bc6f3cfed15aaf3d55"
+  },
+  {
     "hwid_base": "ASTRONAUT",
     "name": "Acer Chromebook 11 (C732, C732T, C732L & C732LT )",
     "desc": "",
@@ -34,6 +52,12 @@
     "name": "Dell Chromebook 13 3380",
     "desc": "",
     "hwidmatch_sha1": "0e79563edf93dc23c4bfcb7ee39cb68bfc905447"
+  },
+  {
+    "hwid_base": "BABYMAKO",
+    "name": "ASUS chromebook C403",
+    "desc": "",
+    "hwidmatch_sha1": "1d8c09177931f219f951ab3dff7051c52971d43d"
   },
   {
     "hwid_base": "BABYMEGA",
@@ -60,6 +84,12 @@
     "hwidmatch_sha1": "ea4cbbd3388825328072bec3fb928d25a775b3d0"
   },
   {
+    "hwid_base": "BARLA",
+    "name": "HP Chromebook 11A G6 EE",
+    "desc": "",
+    "hwidmatch_sha1": "5a55c57a78b7b04b8d4847bff61d6d0d8968d4e7"
+  },
+  {
     "hwid_base": "BIG",
     "name": "Acer Chromebook 13 (CB5-311)",
     "desc": "",
@@ -78,6 +108,12 @@
     "hwidmatch_sha1": "0118cc33d809e20d2f61e190660edfef337a5a3b"
   },
   {
+    "hwid_base": "BLACKTIPLTE",
+    "name": "CTL Chromebook NL7 LTE",
+    "desc": "",
+    "hwidmatch_sha1": "925010e0120509dc26305ca5e7bb8e1bce38006f"
+  },
+  {
     "hwid_base": "BLAZE",
     "name": "HP Chromebook 14 x000-x999 / HP Chromebook 14 G3",
     "desc": "",
@@ -94,6 +130,18 @@
     "name": "ASUS Chromebook Flip C101PA",
     "desc": "",
     "hwidmatch_sha1": "a171f64abb3f21e445087d893fdde16f9eef4ad2"
+  },
+  {
+    "hwid_base": "BOBBA",
+    "name": "Acer Chromebook 311",
+    "desc": "",
+    "hwidmatch_sha1": "9cb6abbdc3649c42af70a9bf14387841541bbe47"
+  },
+  {
+    "hwid_base": "BOBBA360",
+    "name": "Acer Chromebook Spin 511",
+    "desc": "",
+    "hwidmatch_sha1": "bb5d7cdb7d5c8afedf9f392e58b8ae89fe4c2d8f"
   },
   {
     "hwid_base": "BRUCE",
@@ -118,6 +166,12 @@
     "name": "Dell Chromebook 11 (3120)",
     "desc": "",
     "hwidmatch_sha1": "7e1e350538fc97a39791dd58d13e09a1550d5a5b"
+  },
+  {
+    "hwid_base": "CAREENA",
+    "name": "HP Chromebook 14 db0000-db0999",
+    "desc": "",
+    "hwidmatch_sha1": "490a77cf3ce4e9dea94a9ebec14fe2d6fbd59cfa"
   },
   {
     "hwid_base": "CAROLINE",
@@ -162,10 +216,16 @@
     "hwidmatch_sha1": "e5d2cc9a214b4c6dd6c53741529b46ec7c87b7f8"
   },
   {
-    "hwid_base": "DRU",
-    "name": "Acer Chromebook Tab 10 (D651N / D650N)",
+    "hwid_base": "DRUWL",
+    "name": "CTL Chromebook Tab Tx1",
     "desc": "",
-    "hwidmatch_sha1": "7a06b69c78fd174f682c45f25f4de1a9701cfe16"
+    "hwidmatch_sha1": "21f526863a33f2ee0b8cda0ff6853a62436733f2"
+  },
+  {
+    "hwid_base": "DUMO",
+    "name": "ASUS Chromebook Tablet CT100",
+    "desc": "",
+    "hwidmatch_sha1": "12ca9ce919614e859092f22a277eb1f1b924a9c8"
   },
   {
     "hwid_base": "EDGAR",
@@ -306,6 +366,12 @@
     "hwidmatch_sha1": "6c46a82b27f9e5586aa9707836abbb34801a7c60"
   },
   {
+    "hwid_base": "FLEEX",
+    "name": "Dell Chromebook 3100",
+    "desc": "",
+    "hwidmatch_sha1": "e592a01652a8dd4c1f12ace7506091cec39b6b16"
+  },
+  {
     "hwid_base": "GANDOF",
     "name": "Toshiba Chromebook 2 (2015 Edition)",
     "desc": "",
@@ -330,10 +396,28 @@
     "hwidmatch_sha1": "9d15cae4212e36ea0d95366ae1ac93e66ee81202"
   },
   {
+    "hwid_base": "GRABBITER",
+    "name": "Dell Chromebook 3100 2in1",
+    "desc": "",
+    "hwidmatch_sha1": "9e0143629168b8657864f3fd9233b774acc9bdc8"
+  },
+  {
     "hwid_base": "GUADO",
     "name": "ASUS Chromebox CN62",
     "desc": "",
     "hwidmatch_sha1": "4789ee322afdf422298562f72b27698efbc47baf"
+  },
+  {
+    "hwid_base": "HANA",
+    "name": "Lenovo 100e Chromebook 2nd Gen MTK",
+    "desc": "",
+    "hwidmatch_sha1": "e9519b903930e752ce77c6812a29d193ceaa155f"
+  },
+  {
+    "hwid_base": "HANA",
+    "name": "Lenovo 300e Chromebook 2nd Gen MTK",
+    "desc": "",
+    "hwidmatch_sha1": "fb0c883ba9fca1f9ec8807467b31fe375f01e6f3"
   },
   {
     "hwid_base": "HANA",
@@ -456,6 +540,18 @@
     "hwidmatch_sha1": "0a5c430716ecfe1c5de4f4a247263513ffb4d4ca"
   },
   {
+    "hwid_base": "KASUMI",
+    "name": "Chromebook 311 (C721)",
+    "desc": "",
+    "hwidmatch_sha1": "b29c851cc32d163ad4218fa3d655ef059e7cdcbc"
+  },
+  {
+    "hwid_base": "KASUMI360",
+    "name": "Chromebook Spin 311 (R721T)",
+    "desc": "",
+    "hwidmatch_sha1": "125858a78b502d03498b00dbc6cd8ea09eb62132"
+  },
+  {
     "hwid_base": "KEFKA",
     "name": "Chromebook 11 Model 3180",
     "desc": "",
@@ -522,6 +618,12 @@
     "hwidmatch_sha1": "d0fe70361fb7e1a5c141e55694d2a33dbe45bf71"
   },
   {
+    "hwid_base": "LIARA",
+    "name": "Lenovo 14e Chromebook",
+    "desc": "",
+    "hwidmatch_sha1": "901c58d1fd525350a75113e2c598fd7da764e947"
+  },
+  {
     "hwid_base": "LINK",
     "name": "Google Chromebook Pixel",
     "desc": "",
@@ -544,6 +646,12 @@
     "name": "Acer Chromebox",
     "desc": "",
     "hwidmatch_sha1": "35159349765ada34ace1bf00aa395f9afd6453b7"
+  },
+  {
+    "hwid_base": "MEEP",
+    "name": "HP Chromebook x360 11 G2 EE",
+    "desc": "",
+    "hwidmatch_sha1": "599a7e48a805a1cb0efeadb10c8c079e7591bf9b"
   },
   {
     "hwid_base": "MICKEY",
@@ -606,6 +714,12 @@
     "hwidmatch_sha1": "69f399f73ee34fe8696322ee80bad60e640545ec"
   },
   {
+    "hwid_base": "MIMROCK",
+    "name": "HP Chromebook 11 G7 EE",
+    "desc": "",
+    "hwidmatch_sha1": "3ceb8ead5f0af890adfdb5a19b854dcc01e1f25d"
+  },
+  {
     "hwid_base": "MINNIE",
     "name": "ASUS Chromebook Flip C100PA",
     "desc": "",
@@ -639,13 +753,13 @@
     "hwid_base": "NAUTILUS",
     "name": "Samsung Chromebook Plus (LTE)",
     "desc": "",
-    "hwidmatch_sha1": "243df86c690a79b41b9b38e0785b067f2f584ff3"
+    "hwidmatch_sha1": "fdf83f6969efe6a00937de4bf97d738dc89d55a9"
   },
   {
     "hwid_base": "NAUTILUS",
     "name": "Samsung Chromebook Plus (V2)",
     "desc": "",
-    "hwidmatch_sha1": "9384f15cf7b06f34f1e4dd14bd4d7da848085497"
+    "hwidmatch_sha1": "aeed238f35f151f889966087d92ea6927610c14d"
   },
   {
     "hwid_base": "NINJA",
@@ -664,6 +778,12 @@
     "name": "Pixel Slate",
     "desc": "",
     "hwidmatch_sha1": "2e5495ec9dd106d597038cfbd94ef592539c0714"
+  },
+  {
+    "hwid_base": "ORBATRIX",
+    "name": "Dell Chromebook 3400",
+    "desc": "",
+    "hwidmatch_sha1": "be37d2e93ddb16884f233000f32ec47f06e3dc3c"
   },
   {
     "hwid_base": "ORCO",
@@ -708,6 +828,18 @@
     "hwidmatch_sha1": "4be7b1e01c991166cc8c584ab5015f66c57fd1d7"
   },
   {
+    "hwid_base": "PHASER",
+    "name": "Lenovo 100e Chromebook 2nd Gen",
+    "desc": "",
+    "hwidmatch_sha1": "b2425a103255fd65c6b815da21e9a9468c73c4a6"
+  },
+  {
+    "hwid_base": "PHASER360",
+    "name": "Lenovo 300e/500e Chromebook 2nd Gen",
+    "desc": "",
+    "hwidmatch_sha1": "39d8da1be3b8413a7cbaa9be911697eb72680ad2"
+  },
+  {
     "hwid_base": "PI",
     "name": "Samsung Chromebook 2 13\"",
     "desc": "",
@@ -745,7 +877,7 @@
   },
   {
     "hwid_base": "REEF",
-    "name": "ASUS Chromebook C213NA",
+    "name": "ASUS Chromebook C213NA/C213SA",
     "desc": "",
     "hwidmatch_sha1": "ddddcb60851b3f06fdd86d7fc97be8f284886d4a"
   },
@@ -870,6 +1002,12 @@
     "hwidmatch_sha1": "74941d1a1590acdab1901e0baba62b95e68a4e13"
   },
   {
+    "hwid_base": "SCARLET",
+    "name": "Acer Chromebook Tab 10 (D651N / D650N)",
+    "desc": "",
+    "hwidmatch_sha1": "c15e2a3e3631325078a0b185e76a028eec157af9"
+  },
+  {
     "hwid_base": "SENTRY",
     "name": "Thinkpad 13 Chromebook",
     "desc": "",
@@ -880,6 +1018,12 @@
     "name": "HP Chromebook 11 G5 / HP Chromebook 11-vxxx",
     "desc": "",
     "hwidmatch_sha1": "554b495ce50bfb0efe923214cd520ab583ff6177"
+  },
+  {
+    "hwid_base": "SHYVANA",
+    "name": "ASUS Chromebook Flip C434",
+    "desc": "",
+    "hwidmatch_sha1": "099263952e2d562a7455c9e4d8343c92fbe3a7c7"
   },
   {
     "hwid_base": "SION",
@@ -901,7 +1045,7 @@
   },
   {
     "hwid_base": "SNAPPY",
-    "name": "HP Chromebook 14 G5",
+    "name": "HP Chromebook 14 / HP Chromebook 14 G5",
     "desc": "",
     "hwidmatch_sha1": "33787bc62b539fcc61a842742c38aa821b7e04b8"
   },
@@ -928,6 +1072,18 @@
     "name": "HP Chromebook x2",
     "desc": "",
     "hwidmatch_sha1": "e7377364e13f0e40e9315dfcc0013c8090c0e68b"
+  },
+  {
+    "hwid_base": "SPARKY",
+    "name": "Acer Chromebook 512(C851/C851T)",
+    "desc": "",
+    "hwidmatch_sha1": "ad279b7ad7d8c00f6b0994bff87c2fa3fac9fbf0"
+  },
+  {
+    "hwid_base": "SPARKY360",
+    "name": "Acer Chromebook Spin 512(R851TN)",
+    "desc": "",
+    "hwidmatch_sha1": "c1b06f50ca0373ba09381c5fb1567da5db6a77a2"
   },
   {
     "hwid_base": "SPEEDY",
@@ -970,6 +1126,12 @@
     "name": "Toshiba Chromebook 2",
     "desc": "",
     "hwidmatch_sha1": "35bc2cf8d8feea795216115819ed0682ac965083"
+  },
+  {
+    "hwid_base": "SYNDRA",
+    "name": "HP Chromebook 15 G1",
+    "desc": "",
+    "hwidmatch_sha1": "8f9b0a6ba019598db8efbc8c023e91551725f710"
   },
   {
     "hwid_base": "TEEMO",
@@ -1024,6 +1186,30 @@
     "name": "CTL Chromebook J41 / J41T",
     "desc": "",
     "hwidmatch_sha1": "116ec115218eaf95ba9f062b8b40480982ff0470"
+  },
+  {
+    "hwid_base": "WHITETIP",
+    "name": "PCmerge Chromebook AL116",
+    "desc": "",
+    "hwidmatch_sha1": "2dc9a2bd249ccf930739732d1ddbba49cc38e0ea"
+  },
+  {
+    "hwid_base": "WHITETIP",
+    "name": "Prowise Chromebook Eduline",
+    "desc": "",
+    "hwidmatch_sha1": "6fb13fa9ea33e5c8d21b42bb10e100a574a312e5"
+  },
+  {
+    "hwid_base": "WHITETIP",
+    "name": "Sector 5 E3 Chromebook",
+    "desc": "",
+    "hwidmatch_sha1": "6be73a83c4b766f12b4a6aa33df747149fc609ad"
+  },
+  {
+    "hwid_base": "WHITETIP",
+    "name": "Viglen Chromebook 11C",
+    "desc": "",
+    "hwidmatch_sha1": "3597a90f12e55dc957414a07230ec44460cb0ce1"
   },
   {
     "hwid_base": "WINKY",
@@ -1084,6 +1270,12 @@
     "name": "CTL Chromebox CBx1",
     "desc": "",
     "hwidmatch_sha1": "012409241ac5a191f46c1872d5b7e2c53b40fc01"
+  },
+  {
+    "hwid_base": "WUKONG",
+    "name": "Promethean Chromebox",
+    "desc": "",
+    "hwidmatch_sha1": "b55170876987118d98f5edf36b6cf59fda280e37"
   },
   {
     "hwid_base": "WUKONG",
