@@ -13,7 +13,7 @@
   },
   {
     "hwid_base": "AKALI",
-    "name": "Acer Chromebook 13  (CB713-1W )",
+    "name": "Acer Chromebook 13 (CB713-1W)",
     "desc": "",
     "hwidmatch_sha1": "ca9ca1a61ccdb3831cb60c782157802c160a7ffd"
   },
@@ -25,7 +25,7 @@
   },
   {
     "hwid_base": "ALEENA",
-    "name": "Acer Chromebook 315",
+    "name": "Acer Chromebook 315 (CB315-2H)",
     "desc": "",
     "hwidmatch_sha1": "4f57dacdbbc505aca858104f5523ca861ebf8bd2"
   },
@@ -43,13 +43,13 @@
   },
   {
     "hwid_base": "ASTRONAUT",
-    "name": "Acer Chromebook 11 (C732, C732T, C732L & C732LT )",
+    "name": "Acer Chromebook 11 (C732, C732T, C732L, C732LT)",
     "desc": "",
     "hwidmatch_sha1": "f324b94bc1af93f2032e8a1b3451a44496512507"
   },
   {
     "hwid_base": "ASUKA",
-    "name": "Dell Chromebook 13 3380",
+    "name": "Dell Chromebook 13 (3380)",
     "desc": "",
     "hwidmatch_sha1": "0e79563edf93dc23c4bfcb7ee39cb68bfc905447"
   },
@@ -84,6 +84,12 @@
     "hwidmatch_sha1": "ea4cbbd3388825328072bec3fb928d25a775b3d0"
   },
   {
+    "hwid_base": "BARD",
+    "name": "Acer Chromebook 715  (CB715-1W / CB715-1WT)",
+    "desc": "",
+    "hwidmatch_sha1": "6e6110fd7ae358479efc4497ff387b9a78656dae"
+  },
+  {
     "hwid_base": "BARLA",
     "name": "HP Chromebook 11A G6 EE",
     "desc": "",
@@ -91,7 +97,7 @@
   },
   {
     "hwid_base": "BIG",
-    "name": "Acer Chromebook 13 (CB5-311)",
+    "name": "Acer Chromebook 13 (CB5-311, C810)",
     "desc": "",
     "hwidmatch_sha1": "6c249ca0b7e0e6bf443525adc04e5e3fabbe7c75"
   },
@@ -103,7 +109,7 @@
   },
   {
     "hwid_base": "BLACKTIP360",
-    "name": "CTL chromebook NL7T-360",
+    "name": "CTL Chromebook NL7 / NL7T-360 / NL7TW-360",
     "desc": "",
     "hwidmatch_sha1": "0118cc33d809e20d2f61e190660edfef337a5a3b"
   },
@@ -115,13 +121,13 @@
   },
   {
     "hwid_base": "BLAZE",
-    "name": "HP Chromebook 14 x000-x999 / HP Chromebook 14 G3",
+    "name": "HP Chromebook 14 G3",
     "desc": "",
     "hwidmatch_sha1": "0776e3dbe91bdc9dd0519d08351fc82b7baf8bd6"
   },
   {
     "hwid_base": "BLUE",
-    "name": "Acer Chromebook 15 CB315-1H / 1HT",
+    "name": "Acer Chromebook 15 (CB315-1H, CB315-1HT)",
     "desc": "",
     "hwidmatch_sha1": "fec27eb99b802d03d3f712dbe88478297b751221"
   },
@@ -133,19 +139,19 @@
   },
   {
     "hwid_base": "BOBBA",
-    "name": "Acer Chromebook 311",
+    "name": "Acer Chromebook 311 (C733, C733U, C733T)",
     "desc": "",
     "hwidmatch_sha1": "9cb6abbdc3649c42af70a9bf14387841541bbe47"
   },
   {
     "hwid_base": "BOBBA360",
-    "name": "Acer Chromebook Spin 511",
+    "name": "Acer Chromebook Spin 511 (R752T, R752TN)",
     "desc": "",
     "hwidmatch_sha1": "bb5d7cdb7d5c8afedf9f392e58b8ae89fe4c2d8f"
   },
   {
     "hwid_base": "BRUCE",
-    "name": "Acer Chromebook Spin 15 CP315-1H / 1HT",
+    "name": "Acer Chromebook Spin 15 (CP315)",
     "desc": "",
     "hwidmatch_sha1": "00aa6d4b65632261ab11267094ceef29c6e9f62d"
   },
@@ -169,7 +175,7 @@
   },
   {
     "hwid_base": "CAREENA",
-    "name": "HP Chromebook 14 db0000-db0999",
+    "name": "HP Chromebook 14A G5",
     "desc": "",
     "hwidmatch_sha1": "490a77cf3ce4e9dea94a9ebec14fe2d6fbd59cfa"
   },
@@ -205,7 +211,7 @@
   },
   {
     "hwid_base": "CYAN",
-    "name": "Acer Chromebook R11 (CB5-132T / C738T / CB3-132)",
+    "name": "Acer Chromebook R11 (CB5-132T, C738T)",
     "desc": "",
     "hwidmatch_sha1": "8c24c6283e2e84bf0fc3a4bedce81d572a0d3e79"
   },
@@ -217,7 +223,7 @@
   },
   {
     "hwid_base": "DRUWL",
-    "name": "CTL Chromebook Tab Tx1",
+    "name": "CTL Chromebook Tablet Tx1 for Education",
     "desc": "",
     "hwidmatch_sha1": "21f526863a33f2ee0b8cda0ff6853a62436733f2"
   },
@@ -229,9 +235,15 @@
   },
   {
     "hwid_base": "EDGAR",
-    "name": "Chromebook 14 (CB3-431)",
+    "name": "Acer Chromebook 14 (CB3-431)",
     "desc": "",
     "hwidmatch_sha1": "03dc64e83dd8fadb2f52a7e408522984a3993d60"
+  },
+  {
+    "hwid_base": "EKKO",
+    "name": "Acer Chromebook 714 (CB714-1W / CB714-1WT)",
+    "desc": "",
+    "hwidmatch_sha1": "ffb3f9fc2906d699ae96a8760c8365f50ff14303"
   },
   {
     "hwid_base": "ELM",
@@ -259,7 +271,7 @@
   },
   {
     "hwid_base": "ENGUARDE",
-    "name": "Edxis Education Chromebook",
+    "name": "Edxis Education Chromebook (NL6)",
     "desc": "",
     "hwidmatch_sha1": "65bad9fb9cfcdc7b438aa78d56200376fa816819"
   },
@@ -285,7 +297,7 @@
     "hwid_base": "ENGUARDE",
     "name": "RGS Education Chromebook",
     "desc": "",
-    "hwidmatch_sha1": "fd08ea33aa3b6bd3cf5b2486fef44993a92539e4"
+    "hwidmatch_sha1": "08c03c8188dda478cd7835c689a48eab82827f3d"
   },
   {
     "hwid_base": "ENGUARDE",
@@ -303,7 +315,7 @@
     "hwid_base": "ENGUARDE",
     "name": "Videonet Chromebook",
     "desc": "",
-    "hwidmatch_sha1": "e4127a54081fb777c7757d1c84632092892449ce"
+    "hwidmatch_sha1": "ffc83eeacbb2387e9c232379fd7fed1fceda5c9e"
   },
   {
     "hwid_base": "ENGUARDE",
@@ -385,25 +397,25 @@
   },
   {
     "hwid_base": "GNAWTY",
-    "name": "Chromebook 11 (C730 / CB3-111)",
+    "name": "Acer Chromebook 11 (CB3-111, C730, C730E)",
     "desc": "",
     "hwidmatch_sha1": "017d93becf09f0384bdfdbcdd23918ba3b423f0f"
   },
   {
     "hwid_base": "GNAWTY",
-    "name": "Chromebook 11 (C735)",
+    "name": "Acer Chromebook 11 (CB3-131, C735)",
     "desc": "",
     "hwidmatch_sha1": "9d15cae4212e36ea0d95366ae1ac93e66ee81202"
   },
   {
     "hwid_base": "GRABBITER",
-    "name": "Dell Chromebook 3100 2in1",
+    "name": "Dell Chromebook 3100 2-in-1",
     "desc": "",
     "hwidmatch_sha1": "9e0143629168b8657864f3fd9233b774acc9bdc8"
   },
   {
     "hwid_base": "GUADO",
-    "name": "ASUS Chromebox CN62",
+    "name": "ASUS Chromebox 2 (CN62)",
     "desc": "",
     "hwidmatch_sha1": "4789ee322afdf422298562f72b27698efbc47baf"
   },
@@ -421,19 +433,19 @@
   },
   {
     "hwid_base": "HANA",
-    "name": "Lenovo 300e/N23 Yoga/Flex 11 Chromebook",
+    "name": "Lenovo Flex 11 Chromebook",
     "desc": "",
     "hwidmatch_sha1": "3edfb6a59f88186de9db9ad093bed7abc5ca9749"
   },
   {
     "hwid_base": "HANA",
-    "name": "Lenovo Chromebook C330",
+    "name": "Lenovo Ideapad C330 Chromebook",
     "desc": "",
     "hwidmatch_sha1": "0f5b43d124ff356e249d75e19ba3573c973ed306"
   },
   {
     "hwid_base": "HANA",
-    "name": "Lenovo Chromebook S330",
+    "name": "Lenovo Ideapad S330 Chromebook",
     "desc": "",
     "hwidmatch_sha1": "50fd4eed6d583bba84525bd39afc0579bef8c3c2"
   },
@@ -457,7 +469,7 @@
   },
   {
     "hwid_base": "IEC MARIO",
-    "name": "Cr-48",
+    "name": "Google Cr-48",
     "desc": "",
     "hwidmatch_sha1": "b83c95569fca1d50eb3416a0fc766abfb55835c3"
   },
@@ -469,7 +481,13 @@
   },
   {
     "hwid_base": "JAQ",
-    "name": "Medion Akoya S2013",
+    "name": "Lava Xolo Chromebook",
+    "desc": "",
+    "hwidmatch_sha1": "b666443ce37d06214883c0db5a1947d58c056c61"
+  },
+  {
+    "hwid_base": "JAQ",
+    "name": "Medion Chromebook Akoya S2013",
     "desc": "",
     "hwidmatch_sha1": "9283e966585c04a271fc9f4a150b212b04dfa345"
   },
@@ -480,16 +498,22 @@
     "hwidmatch_sha1": "45fb2ba185cfe9052bf79d73c35afd8a513507cd"
   },
   {
-    "hwid_base": "JAQ",
-    "name": "Xolo Chromebook",
+    "hwid_base": "JAX",
+    "name": "AOpen Chromebox Commercial 2",
     "desc": "",
-    "hwidmatch_sha1": "b666443ce37d06214883c0db5a1947d58c056c61"
+    "hwidmatch_sha1": "f2554ecb87cf680dcc7f10dac82b5ec21bd4dd8b"
   },
   {
     "hwid_base": "JERRY",
-    "name": "CTL J2 / J4 Chromebook for Education",
+    "name": "CTL J2 / J4 Chromebook",
     "desc": "",
     "hwidmatch_sha1": "f26d332933db15d27eb89466e16bbeddce7cca32"
+  },
+  {
+    "hwid_base": "JERRY",
+    "name": "EduGear Chromebook K",
+    "desc": "",
+    "hwidmatch_sha1": "0a5c430716ecfe1c5de4f4a247263513ffb4d4ca"
   },
   {
     "hwid_base": "JERRY",
@@ -511,7 +535,7 @@
   },
   {
     "hwid_base": "JERRY",
-    "name": "NComputing Chromebook CX100/110",
+    "name": "NComputing Chromebook CX100",
     "desc": "",
     "hwidmatch_sha1": "b9c1fdfa322c19fc8869685bfa32ca4e177835b1"
   },
@@ -534,32 +558,26 @@
     "hwidmatch_sha1": "2836df4c54e24db434fe38f7c07820ca86ae7c45"
   },
   {
-    "hwid_base": "JERRY",
-    "name": "eduGear Chromebook K Series",
-    "desc": "",
-    "hwidmatch_sha1": "0a5c430716ecfe1c5de4f4a247263513ffb4d4ca"
-  },
-  {
     "hwid_base": "KASUMI",
-    "name": "Chromebook 311 (C721)",
+    "name": "Acer Chromebook 311 (C721)",
     "desc": "",
     "hwidmatch_sha1": "b29c851cc32d163ad4218fa3d655ef059e7cdcbc"
   },
   {
     "hwid_base": "KASUMI360",
-    "name": "Chromebook Spin 311 (R721T)",
+    "name": "Acer Chromebook Spin 311 (R721T)",
     "desc": "",
     "hwidmatch_sha1": "125858a78b502d03498b00dbc6cd8ea09eb62132"
   },
   {
     "hwid_base": "KEFKA",
-    "name": "Chromebook 11 Model 3180",
+    "name": "Dell Chromebook 11 (3180)",
     "desc": "",
     "hwidmatch_sha1": "582436bdcc92da07ee3c1894c991570de5254db0"
   },
   {
     "hwid_base": "KEFKA",
-    "name": "Dell Chromebook 11 3189",
+    "name": "Dell Chromebook 11 2-in-1 (3189)",
     "desc": "",
     "hwidmatch_sha1": "0b9fff93b1962d57b1c7ac9bc5a47938ed714020"
   },
@@ -577,13 +595,13 @@
   },
   {
     "hwid_base": "KIP",
-    "name": "HP Chromebook 11 2200-2299 / HP Chromebook 11 G4/G4 EE",
+    "name": "HP Chromebook 11 (G3 / G4 / G4 EE / 2100 - 2299)",
     "desc": "",
     "hwidmatch_sha1": "d6d661f8196118e6ed681a7a3e2ec4b11d12f198"
   },
   {
     "hwid_base": "KIP",
-    "name": "HP Chromebook 14 ak000-099 / HP Chromebook 14 G4",
+    "name": "HP Chromebook 11 G3/G4/G4 EE",
     "desc": "",
     "hwidmatch_sha1": "c84187a96ccff47acd83f3a91b6cdc1b936efdeb"
   },
@@ -595,19 +613,25 @@
   },
   {
     "hwid_base": "LARS",
-    "name": "Acer Chromebook 11 (C771 / C771T)",
+    "name": "Acer Chromebook 11 (C771, C771T)",
     "desc": "",
     "hwidmatch_sha1": "cba844f29891cd49c0b102751ced1af0603feb41"
   },
   {
     "hwid_base": "LARS",
-    "name": "Chromebook 14 for work (CP5-471)",
+    "name": "Acer Chromebook 14 for Work (CP5-471)",
     "desc": "",
     "hwidmatch_sha1": "0b1e86ae37b48b775fc9e828b9f144c28731f6ed"
   },
   {
+    "hwid_base": "LASER14",
+    "name": "Lenovo Chromebook S340-14 and Lenovo Chromebook S340-14 Touch",
+    "desc": "",
+    "hwidmatch_sha1": "9722902ec3a1ba015997e4ae470c5fc20b54d6d2"
+  },
+  {
     "hwid_base": "LAVA",
-    "name": "Acer Chromebook Spin 11 (CP311-1H & CP311-1HN)",
+    "name": "Acer Chromebook Spin 11 (CP311-H1, CP311-1HN)",
     "desc": "",
     "hwidmatch_sha1": "6ce5b00983baad510a3639e1db179a8b533e728a"
   },
@@ -631,7 +655,7 @@
   },
   {
     "hwid_base": "LULU",
-    "name": "Dell Chromebook 13 7310",
+    "name": "Dell Chromebook 13 (7310)",
     "desc": "",
     "hwidmatch_sha1": "66787455bfbb21d945ad1af7cba66fcc5b846854"
   },
@@ -661,9 +685,9 @@
   },
   {
     "hwid_base": "MIGHTY",
-    "name": "Chromebook PCM-116E",
+    "name": "EduGear Chromebook M",
     "desc": "",
-    "hwidmatch_sha1": "4116c8988218a8c59e445061362fd1c680ce9954"
+    "hwidmatch_sha1": "69f399f73ee34fe8696322ee80bad60e640545ec"
   },
   {
     "hwid_base": "MIGHTY",
@@ -685,13 +709,19 @@
   },
   {
     "hwid_base": "MIGHTY",
-    "name": "Nexian Chromebook 11.6-inch",
+    "name": "Nexian Chromebook 11.6\"",
     "desc": "",
     "hwidmatch_sha1": "1d05499d26765184a4e16758681351f2aa0edacd"
   },
   {
     "hwid_base": "MIGHTY",
-    "name": "Prowise 11.6\" Entry Line Chromebook",
+    "name": "PCMerge Chromebook PCM-116E/PCM-116EB",
+    "desc": "",
+    "hwidmatch_sha1": "4116c8988218a8c59e445061362fd1c680ce9954"
+  },
+  {
+    "hwid_base": "MIGHTY",
+    "name": "Prowise Chromebook Entryline",
     "desc": "",
     "hwidmatch_sha1": "38b81447fbf5c7994d95190666d0e4800fdfc4df"
   },
@@ -708,12 +738,6 @@
     "hwidmatch_sha1": "e3d4fcc4f7ab73a3b241a89d36aa9b9c1ab9905c"
   },
   {
-    "hwid_base": "MIGHTY",
-    "name": "eduGear Chromebook M Series",
-    "desc": "",
-    "hwidmatch_sha1": "69f399f73ee34fe8696322ee80bad60e640545ec"
-  },
-  {
     "hwid_base": "MIMROCK",
     "name": "HP Chromebook 11 G7 EE",
     "desc": "",
@@ -727,25 +751,25 @@
   },
   {
     "hwid_base": "MONROE",
-    "name": "LG Chromebase 22CB25S",
+    "name": "LG Chromebase (22CB25S)",
     "desc": "",
     "hwidmatch_sha1": "e8d56307712250ec088180d63d74c2624a62dec3"
   },
   {
     "hwid_base": "MONROE",
-    "name": "LG Chromebase 22CV241",
+    "name": "LG Chromebase (22CV241)",
     "desc": "",
     "hwidmatch_sha1": "b6b963f42126e05562598a3c85143c5300c8b852"
   },
   {
     "hwid_base": "NASHER",
-    "name": "Dell Chromebook 11 5190",
+    "name": "Dell Chromebook 11 (5190)",
     "desc": "",
     "hwidmatch_sha1": "7c7c1bd3042065f177d63680fe22edf64d5b2266"
   },
   {
     "hwid_base": "NASHER360",
-    "name": "Dell Chromebook 11 2-in-1 5190",
+    "name": "Dell Chromebook 11 2-in-1 (5190)",
     "desc": "",
     "hwidmatch_sha1": "1a581d92236518fa9ee17593e34ad400f6e1af47"
   },
@@ -775,7 +799,7 @@
   },
   {
     "hwid_base": "NOCTURNE",
-    "name": "Pixel Slate",
+    "name": "Google Pixel Slate",
     "desc": "",
     "hwidmatch_sha1": "2e5495ec9dd106d597038cfbd94ef592539c0714"
   },
@@ -799,13 +823,13 @@
   },
   {
     "hwid_base": "PANTHEON",
-    "name": "Yoga C630 Chromebook",
+    "name": "Lenovo Yoga C630 Chromebook",
     "desc": "",
     "hwidmatch_sha1": "7e54198d8f14de24aa95720e476432e247e272f4"
   },
   {
     "hwid_base": "PANTHER",
-    "name": "ASUS Chromebox CN60",
+    "name": "ASUS Chromebox (CN60)",
     "desc": "",
     "hwidmatch_sha1": "ecbe8a195100ef0c0fd52e9dadd695e077fcfa3c"
   },
@@ -823,7 +847,7 @@
   },
   {
     "hwid_base": "PEPPY",
-    "name": "Acer C720 Chromebook",
+    "name": "Acer Chromebook 11 (C720, C720P)",
     "desc": "",
     "hwidmatch_sha1": "4be7b1e01c991166cc8c584ab5015f66c57fd1d7"
   },
@@ -836,6 +860,12 @@
   {
     "hwid_base": "PHASER360",
     "name": "Lenovo 300e/500e Chromebook 2nd Gen",
+    "desc": "",
+    "hwidmatch_sha1": "39d8da1be3b8413a7cbaa9be911697eb72680ad2"
+  },
+  {
+    "hwid_base": "PHASER360",
+    "name": "Lenovo Chromebook C340-11",
     "desc": "",
     "hwidmatch_sha1": "39d8da1be3b8413a7cbaa9be911697eb72680ad2"
   },
@@ -853,13 +883,13 @@
   },
   {
     "hwid_base": "PYRO",
-    "name": "Lenovo Thinkpad 11e Chromebook (4th Gen)/Lenovo Thinkpad Yoga 11e Chromebook (4th Gen)",
+    "name": "Lenovo ThinkPad 11e 4th Gen Chromebook",
     "desc": "",
     "hwidmatch_sha1": "2ed1a9bc49cf2ccb5dc07aa680fccf345a95d41b"
   },
   {
     "hwid_base": "QUAWKS",
-    "name": "ASUS Chromebook C300MA",
+    "name": "ASUS Chromebook C300",
     "desc": "",
     "hwidmatch_sha1": "a6a64060d44fa4848dfafc6d3a0b5259ce34fe7b"
   },
@@ -877,19 +907,19 @@
   },
   {
     "hwid_base": "REEF",
-    "name": "ASUS Chromebook C213NA/C213SA",
+    "name": "ASUS Chromebook Flip C213",
     "desc": "",
     "hwidmatch_sha1": "ddddcb60851b3f06fdd86d7fc97be8f284886d4a"
   },
   {
     "hwid_base": "REEF",
-    "name": "Acer Chromebook Spin 11 (R751T / CP511)",
+    "name": "Acer Chromebook Spin 11 (R751T)",
     "desc": "",
     "hwidmatch_sha1": "c0c5eb6dda6085054d0c1436a9b503d8cd5fa070"
   },
   {
     "hwid_base": "REKS",
-    "name": "Lenovo N22 (Touch) Chromebook",
+    "name": "Lenovo N22 Chromebook",
     "desc": "",
     "hwidmatch_sha1": "f0c99c3469d96ed53c97c7ed8a959439a29f7197"
   },
@@ -907,13 +937,13 @@
   },
   {
     "hwid_base": "REKS",
-    "name": "Lenovo N42 (Touch) Chromebook",
+    "name": "Lenovo N42 Chromebook",
     "desc": "",
     "hwidmatch_sha1": "27e18096f0f6daf12d0daa022623059e94c83875"
   },
   {
     "hwid_base": "RELM",
-    "name": "Acer Chromebook 11 N7 (C731 / CB311)",
+    "name": "Acer Chromebook 11 N7 (C731, C731T)",
     "desc": "",
     "hwidmatch_sha1": "8b036ec72932ddee2589e2822713df2e6bb255b6"
   },
@@ -925,7 +955,7 @@
   },
   {
     "hwid_base": "RELM",
-    "name": "Edxis Education Chromebook",
+    "name": "Edxis Education Chromebook (NL6D)",
     "desc": "",
     "hwidmatch_sha1": "e87af76ff0ca31941d43dd0b33b503a54ec0b5f5"
   },
@@ -955,7 +985,7 @@
   },
   {
     "hwid_base": "RIKKU",
-    "name": "Acer Chromebox CXI2",
+    "name": "Acer Chromebox CXI2 / CXV2",
     "desc": "",
     "hwidmatch_sha1": "620ef6874d6065acb3c5fac7c1d31b43d222f949"
   },
@@ -991,31 +1021,31 @@
   },
   {
     "hwid_base": "SAND",
-    "name": "Chromebook 15 (CB515 - 1HT / 1H)",
+    "name": "Acer Chromebook 15 (CB515-1H, CB515-1HT)",
     "desc": "",
     "hwidmatch_sha1": "9e36ddf85e0ebf48fee25007512724b0930aa502"
   },
   {
     "hwid_base": "SANTA",
-    "name": "Acer Chromebook 11 (CB311 - 8H / 8HT)",
+    "name": "Acer Chromebook 11 (CB311-8H, CB311-8HT)",
     "desc": "",
     "hwidmatch_sha1": "74941d1a1590acdab1901e0baba62b95e68a4e13"
   },
   {
     "hwid_base": "SCARLET",
-    "name": "Acer Chromebook Tab 10 (D651N / D650N)",
+    "name": "Acer Chromebook Tab 10",
     "desc": "",
     "hwidmatch_sha1": "c15e2a3e3631325078a0b185e76a028eec157af9"
   },
   {
     "hwid_base": "SENTRY",
-    "name": "Thinkpad 13 Chromebook",
+    "name": "Lenovo ThinkPad 13",
     "desc": "",
     "hwidmatch_sha1": "1090d6a25b08ef7802bcfb3d3d2d0e474330a7c1"
   },
   {
     "hwid_base": "SETZER",
-    "name": "HP Chromebook 11 G5 / HP Chromebook 11-vxxx",
+    "name": "HP Chromebook 11 G5",
     "desc": "",
     "hwidmatch_sha1": "554b495ce50bfb0efe923214cd520ab583ff6177"
   },
@@ -1033,7 +1063,7 @@
   },
   {
     "hwid_base": "SKATE",
-    "name": "HP Chromebook 11 2000-2099 / HP Chromebook 11 G2",
+    "name": "HP Chromebook 11 G2",
     "desc": "",
     "hwidmatch_sha1": "4e2345349b7e9362e0fcbaabdff8721524dd7b21"
   },
@@ -1045,7 +1075,7 @@
   },
   {
     "hwid_base": "SNAPPY",
-    "name": "HP Chromebook 14 / HP Chromebook 14 G5",
+    "name": "HP Chromebook 14 G5",
     "desc": "",
     "hwidmatch_sha1": "33787bc62b539fcc61a842742c38aa821b7e04b8"
   },
@@ -1057,7 +1087,7 @@
   },
   {
     "hwid_base": "SNOW",
-    "name": "Samsung Chromebook",
+    "name": "Samsung Chromebook - XE303",
     "desc": "",
     "hwidmatch_sha1": "2583cc70f983e0836d52f95076d2d8e90405ad7a"
   },
@@ -1075,13 +1105,13 @@
   },
   {
     "hwid_base": "SPARKY",
-    "name": "Acer Chromebook 512(C851/C851T)",
+    "name": "Acer Chromebook 512 (C851, C851T)",
     "desc": "",
     "hwidmatch_sha1": "ad279b7ad7d8c00f6b0994bff87c2fa3fac9fbf0"
   },
   {
     "hwid_base": "SPARKY360",
-    "name": "Acer Chromebook Spin 512(R851TN)",
+    "name": "Acer Chromebook Spin 512 (R851TN)",
     "desc": "",
     "hwidmatch_sha1": "c1b06f50ca0373ba09381c5fb1567da5db6a77a2"
   },
@@ -1093,13 +1123,13 @@
   },
   {
     "hwid_base": "SPRING",
-    "name": "HP Chromebook 11 1100-1199 / HP Chromebook 11 G1",
+    "name": "HP Chromebook 11 G1",
     "desc": "",
     "hwidmatch_sha1": "6862dcb1c1d6be99b1da34dcd26fd36f1d334c62"
   },
   {
     "hwid_base": "SQUAWKS",
-    "name": "ASUS Chromebook C200MA",
+    "name": "ASUS Chromebook C200",
     "desc": "",
     "hwidmatch_sha1": "776011625c790fdd486f3c52dadd7f3824eb9e0c"
   },
@@ -1135,7 +1165,7 @@
   },
   {
     "hwid_base": "TEEMO",
-    "name": "ASUS Chromebox 3",
+    "name": "ASUS Chromebox 3 (CN65)",
     "desc": "",
     "hwidmatch_sha1": "27dd454d28f13a60985c0ae928e17d87c3f50bf0"
   },
@@ -1147,7 +1177,7 @@
   },
   {
     "hwid_base": "TERRA",
-    "name": "ASUS Chromebook C300SA/C301SA",
+    "name": "ASUS Chromebook C300SA / C301SA",
     "desc": "",
     "hwidmatch_sha1": "25b6f0e0a65b281a366c0d59770c920a74796ac7"
   },
@@ -1171,13 +1201,13 @@
   },
   {
     "hwid_base": "ULTIMA",
-    "name": "ThinkPad 11e Chromebook 3rd Gen (Yoga/Clamshell)",
+    "name": "Lenovo ThinkPad 11e 3rd Gen Chromebook",
     "desc": "",
     "hwidmatch_sha1": "ddd603278d007e40b93c85efb4042f18f267d51f"
   },
   {
     "hwid_base": "VAYNE",
-    "name": "Dell Inspiron Chromebook 14 2-in-1 7486",
+    "name": "Dell Inspiron Chromebook 14 2-in-1 (7486)",
     "desc": "",
     "hwidmatch_sha1": "b0ff04968ccc8bfce77ac0078eed16f80693337c"
   },
@@ -1213,7 +1243,7 @@
   },
   {
     "hwid_base": "WINKY",
-    "name": "Samsung Chromebook 2 11 - XE500C12",
+    "name": "Samsung Chromebook 2 11\" - XE500C12",
     "desc": "",
     "hwidmatch_sha1": "6679846417b88e85c619ba671c3b4e129d0b205f"
   },
@@ -1231,13 +1261,13 @@
   },
   {
     "hwid_base": "WIZPIG",
-    "name": "Haier Convertible Chromebook 11 C",
+    "name": "Haier Chromebook 11 C",
     "desc": "",
     "hwidmatch_sha1": "c44a2f32b888682d6afbbaa712c20e90303471a3"
   },
   {
     "hwid_base": "WIZPIG",
-    "name": "Multilaser M11C Chromebook",
+    "name": "Multilaser Chromebook M11C",
     "desc": "",
     "hwidmatch_sha1": "1c56fa8eedf866a3ce876189be1e9d9b5825e7b7"
   },
@@ -1249,7 +1279,7 @@
   },
   {
     "hwid_base": "WIZPIG",
-    "name": "Prowise ProLine Chromebook",
+    "name": "Prowise Chromebook Proline",
     "desc": "",
     "hwidmatch_sha1": "abced9618d67bee072cdf82b36d6d53a64947c65"
   },
@@ -1285,13 +1315,13 @@
   },
   {
     "hwid_base": "YUNA",
-    "name": "Acer Chromebook 15 (C910 / CB5-571)",
+    "name": "Acer Chromebook 15 (CB5-571, C910)",
     "desc": "",
     "hwidmatch_sha1": "5aa803a8d82f2055c85c8b60ac895bc3a5473b7c"
   },
   {
     "hwid_base": "ZAKO",
-    "name": "HP Chromebox CB1-(000-099) / HP Chromebox G1/ HP Chromebox for Meetings",
+    "name": "HP Chromebox G1",
     "desc": "",
     "hwidmatch_sha1": "5df71f5d26c7fed307a52ff57c737a9c8206565a"
   }
