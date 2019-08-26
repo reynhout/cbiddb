@@ -1,13 +1,5 @@
 [
   {
-    "hwid_base": "ACER ZGB",
-    "name": "Acer AC700-1099 Wifi"
-  },
-  {
-    "hwid_base": "ACER ZGB",
-    "name": "Acer AC700-1529 3G"
-  },
-  {
     "hwid_base": "AKALI",
     "name": "Acer Chromebook 13 (CB713-1W)"
   },
@@ -18,6 +10,14 @@
   {
     "hwid_base": "ALEENA",
     "name": "Acer Chromebook 315 (CB315-2H)"
+  },
+  {
+    "hwid_base": "ALEX",
+    "name": "Samsung Chromebook Series 5 US 3G only"
+  },
+  {
+    "hwid_base": "ALEX_HE",
+    "name": "Samsung Chromebook Series 5"
   },
   {
     "hwid_base": "AMPTON",
@@ -37,7 +37,7 @@
   },
   {
     "hwid_base": "BABYMAKO",
-    "name": "ASUS chromebook C403"
+    "name": "ASUS Chromebook C403"
   },
   {
     "hwid_base": "BABYMEGA",
@@ -68,16 +68,24 @@
     "name": "Acer Chromebook 13 (CB5-311, C810)"
   },
   {
-    "hwid_base": "BLACKTIP",
-    "name": "CTL chromebook NL7"
+    "hwid_base": "BLACKTIP360_B",
+    "name": "CTL Chromebook NL7 / NL7T-360 / NL7TW-360"
   },
   {
-    "hwid_base": "BLACKTIP360",
-    "name": "CTL Chromebook NL7 / NL7T-360 / NL7TW-360"
+    "hwid_base": "BLACKTIP360_C",
+    "name": "Edxis Chromebook X11"
   },
   {
     "hwid_base": "BLACKTIPLTE",
     "name": "CTL Chromebook NL7 LTE"
+  },
+  {
+    "hwid_base": "BLACKTIP_B",
+    "name": "CTL chromebook NL7"
+  },
+  {
+    "hwid_base": "BLACKTIP_C",
+    "name": "Edxis Chromebook 11"
   },
   {
     "hwid_base": "BLAZE",
@@ -144,11 +152,7 @@
     "name": "Acer Chromebook R11 (CB5-132T, C738T)"
   },
   {
-    "hwid_base": "DOES",
-    "name": "Education Chromebook"
-  },
-  {
-    "hwid_base": "DRUWL",
+    "hwid_base": "DRUWL_A",
     "name": "CTL Chromebook Tablet Tx1 for Education"
   },
   {
@@ -168,52 +172,52 @@
     "name": "Acer Chromebook R13 (CB5-312T)"
   },
   {
-    "hwid_base": "ENGUARDE",
-    "name": "ASI Chromebook"
-  },
-  {
-    "hwid_base": "ENGUARDE",
+    "hwid_base": "ENGUARDE_A",
     "name": "CTL N6 Education Chromebook"
   },
   {
-    "hwid_base": "ENGUARDE",
-    "name": "Crambo Chromebook"
-  },
-  {
-    "hwid_base": "ENGUARDE",
-    "name": "Edxis Education Chromebook (NL6)"
-  },
-  {
-    "hwid_base": "ENGUARDE",
-    "name": "JP Sa Couto Chromebook"
-  },
-  {
-    "hwid_base": "ENGUARDE",
-    "name": "Lenovo N21 Chromebook"
-  },
-  {
-    "hwid_base": "ENGUARDE",
+    "hwid_base": "ENGUARDE_B",
     "name": "M&A Chromebook"
   },
   {
-    "hwid_base": "ENGUARDE",
-    "name": "RGS Education Chromebook"
-  },
-  {
-    "hwid_base": "ENGUARDE",
+    "hwid_base": "ENGUARDE_C",
     "name": "Senkatel C1101 Chromebook"
   },
   {
-    "hwid_base": "ENGUARDE",
+    "hwid_base": "ENGUARDE_D",
+    "name": "Edxis Education Chromebook (NL6)"
+  },
+  {
+    "hwid_base": "ENGUARDE_E",
+    "name": "Lenovo N21 Chromebook"
+  },
+  {
+    "hwid_base": "ENGUARDE_F",
+    "name": "RGS Education Chromebook"
+  },
+  {
+    "hwid_base": "ENGUARDE_G",
+    "name": "Crambo Chromebook"
+  },
+  {
+    "hwid_base": "ENGUARDE_H",
     "name": "True IDC Chromebook"
   },
   {
-    "hwid_base": "ENGUARDE",
+    "hwid_base": "ENGUARDE_I",
     "name": "Videonet Chromebook"
   },
   {
-    "hwid_base": "ENGUARDE",
+    "hwid_base": "ENGUARDE_J",
     "name": "eduGear Chromebook R"
+  },
+  {
+    "hwid_base": "ENGUARDE_K",
+    "name": "ASI Chromebook"
+  },
+  {
+    "hwid_base": "ENGUARDE_L",
+    "name": "JP Sa Couto Chromebook"
   },
   {
     "hwid_base": "EPAULETTE",
@@ -224,23 +228,23 @@
     "name": "Google Pixelbook"
   },
   {
-    "hwid_base": "EXPRESSO",
+    "hwid_base": "EXPRESSO_A",
+    "name": "HEXA Chromebook Pi"
+  },
+  {
+    "hwid_base": "EXPRESSO_B",
     "name": "Bobicus Chromebook 11"
   },
   {
-    "hwid_base": "EXPRESSO",
+    "hwid_base": "EXPRESSO_C",
     "name": "Edxis Chromebook"
-  },
-  {
-    "hwid_base": "EXPRESSO",
-    "name": "HEXA Chromebook Pi"
   },
   {
     "hwid_base": "FALCO",
     "name": "HP Chromebook 14 q000-q099 / HP Chromebook 14-SMB Atheros"
   },
   {
-    "hwid_base": "FALCO",
+    "hwid_base": "FALCO_D",
     "name": "HP Chromebook 14 q000-q099 WP2 / HP Chromebook 14-SMB Intel Corp"
   },
   {
@@ -268,7 +272,7 @@
     "name": "Acer Chromebook 11 (CB3-111, C730, C730E)"
   },
   {
-    "hwid_base": "GNAWTY",
+    "hwid_base": "GNAWTY_B",
     "name": "Acer Chromebook 11 (CB3-131, C735)"
   },
   {
@@ -281,94 +285,90 @@
   },
   {
     "hwid_base": "HANA",
-    "name": "Lenovo 100e Chromebook 2nd Gen MTK"
-  },
-  {
-    "hwid_base": "HANA",
-    "name": "Lenovo 300e Chromebook 2nd Gen MTK"
-  },
-  {
-    "hwid_base": "HANA",
-    "name": "Lenovo Flex 11 Chromebook"
-  },
-  {
-    "hwid_base": "HANA",
-    "name": "Lenovo Ideapad C330 Chromebook"
-  },
-  {
-    "hwid_base": "HANA",
-    "name": "Lenovo Ideapad S330 Chromebook"
-  },
-  {
-    "hwid_base": "HANA",
     "name": "Poin2 Chromebook 11C"
   },
   {
-    "hwid_base": "HANA",
+    "hwid_base": "HANA_A",
+    "name": "Lenovo 300e/N23 Yoga/Flex 11 Chromebook"
+  },
+  {
+    "hwid_base": "HANA_B",
     "name": "Poin2 Chromebook 14"
+  },
+  {
+    "hwid_base": "HANA_E",
+    "name": "Lenovo Ideapad C330 Chromebook"
+  },
+  {
+    "hwid_base": "HANA_F",
+    "name": "Lenovo Ideapad S330 Chromebook"
+  },
+  {
+    "hwid_base": "HANA_H",
+    "name": "Lenovo 100e Chromebook 2nd Gen MTK"
+  },
+  {
+    "hwid_base": "HANA_I",
+    "name": "Lenovo 300e Chromebook 2nd Gen MTK"
   },
   {
     "hwid_base": "HELI",
     "name": "Haier Chromebook 11 G2"
   },
   {
-    "hwid_base": "IEC MARIO",
-    "name": "Google Cr-48"
-  },
-  {
-    "hwid_base": "JAQ",
+    "hwid_base": "JAQ_A",
     "name": "Haier Chromebook 11"
   },
   {
-    "hwid_base": "JAQ",
+    "hwid_base": "JAQ_B",
+    "name": "True IDC Chromebook 11"
+  },
+  {
+    "hwid_base": "JAQ_C",
     "name": "Lava Xolo Chromebook"
   },
   {
-    "hwid_base": "JAQ",
+    "hwid_base": "JAQ_D",
     "name": "Medion Chromebook Akoya S2013"
-  },
-  {
-    "hwid_base": "JAQ",
-    "name": "True IDC Chromebook 11"
   },
   {
     "hwid_base": "JAX",
     "name": "AOpen Chromebox Commercial 2"
   },
   {
-    "hwid_base": "JERRY",
-    "name": "CTL J2 / J4 Chromebook"
-  },
-  {
-    "hwid_base": "JERRY",
-    "name": "EduGear Chromebook K"
-  },
-  {
-    "hwid_base": "JERRY",
-    "name": "Epik 11.6\" Chromebook  ELB1101"
-  },
-  {
-    "hwid_base": "JERRY",
+    "hwid_base": "JERRY_A",
     "name": "HiSense Chromebook 11"
   },
   {
-    "hwid_base": "JERRY",
-    "name": "Mecer Chromebook"
+    "hwid_base": "JERRY_B",
+    "name": "CTL J2 / J4 Chromebook"
   },
   {
-    "hwid_base": "JERRY",
-    "name": "NComputing Chromebook CX100"
-  },
-  {
-    "hwid_base": "JERRY",
+    "hwid_base": "JERRY_C",
     "name": "Poin2 Chromebook 11"
   },
   {
-    "hwid_base": "JERRY",
+    "hwid_base": "JERRY_D",
+    "name": "EduGear Chromebook K"
+  },
+  {
+    "hwid_base": "JERRY_E",
+    "name": "NComputing Chromebook CX100"
+  },
+  {
+    "hwid_base": "JERRY_F",
+    "name": "Epik 11.6\" Chromebook  ELB1101"
+  },
+  {
+    "hwid_base": "JERRY_G",
     "name": "Positivo Chromebook CH1190"
   },
   {
-    "hwid_base": "JERRY",
+    "hwid_base": "JERRY_H",
+    "name": "Mecer Chromebook"
+  },
+  {
+    "hwid_base": "JERRY_I",
     "name": "VideoNet Chromebook BL10"
   },
   {
@@ -380,11 +380,11 @@
     "name": "Acer Chromebook Spin 311 (R721T)"
   },
   {
-    "hwid_base": "KEFKA",
+    "hwid_base": "KEFKA_A",
     "name": "Dell Chromebook 11 (3180)"
   },
   {
-    "hwid_base": "KEFKA",
+    "hwid_base": "KEFKA_B",
     "name": "Dell Chromebook 11 2-in-1 (3189)"
   },
   {
@@ -397,11 +397,11 @@
   },
   {
     "hwid_base": "KIP",
-    "name": "HP Chromebook 11 (G3 / G4 / G4 EE / 2100 - 2299)"
+    "name": "HP Chromebook 11 G3/G4/G4 EE"
   },
   {
-    "hwid_base": "KIP",
-    "name": "HP Chromebook 11 G3/G4/G4 EE"
+    "hwid_base": "KIP_D",
+    "name": "HP Chromebook 14 G4"
   },
   {
     "hwid_base": "KITTY",
@@ -409,11 +409,11 @@
   },
   {
     "hwid_base": "LARS",
-    "name": "Acer Chromebook 11 (C771, C771T)"
+    "name": "Acer Chromebook 14 for Work (CP5-471)"
   },
   {
-    "hwid_base": "LARS",
-    "name": "Acer Chromebook 14 for Work (CP5-471)"
+    "hwid_base": "LARS_3",
+    "name": "Acer Chromebook 11 (C771, C771T)"
   },
   {
     "hwid_base": "LASER14",
@@ -444,6 +444,10 @@
     "name": "Samsung Chromebook Series 5 550"
   },
   {
+    "hwid_base": "MARIO",
+    "name": "Google Cr-48"
+  },
+  {
     "hwid_base": "MCCLOUD",
     "name": "Acer Chromebox"
   },
@@ -456,40 +460,40 @@
     "name": "ASUS Chromebit CS10"
   },
   {
-    "hwid_base": "MIGHTY",
-    "name": "EduGear Chromebook M"
-  },
-  {
-    "hwid_base": "MIGHTY",
+    "hwid_base": "MIGHTY_A",
     "name": "Haier Chromebook 11e"
   },
   {
-    "hwid_base": "MIGHTY",
-    "name": "Lumos Education Chromebook"
-  },
-  {
-    "hwid_base": "MIGHTY",
-    "name": "MEDION Chromebook S2015"
-  },
-  {
-    "hwid_base": "MIGHTY",
+    "hwid_base": "MIGHTY_B",
     "name": "Nexian Chromebook 11.6\""
   },
   {
-    "hwid_base": "MIGHTY",
-    "name": "PCMerge Chromebook PCM-116E/PCM-116EB"
+    "hwid_base": "MIGHTY_D",
+    "name": "EduGear Chromebook M"
   },
   {
-    "hwid_base": "MIGHTY",
-    "name": "Prowise Chromebook Entryline"
-  },
-  {
-    "hwid_base": "MIGHTY",
+    "hwid_base": "MIGHTY_E",
     "name": "Sector 5 E1 Rugged Chromebook"
   },
   {
-    "hwid_base": "MIGHTY",
+    "hwid_base": "MIGHTY_F",
     "name": "Viglen Chromebook 11"
+  },
+  {
+    "hwid_base": "MIGHTY_G",
+    "name": "PCMerge Chromebook PCM-116E/PCM-116EB"
+  },
+  {
+    "hwid_base": "MIGHTY_H",
+    "name": "Lumos Education Chromebook"
+  },
+  {
+    "hwid_base": "MIGHTY_I",
+    "name": "MEDION Chromebook S2015"
+  },
+  {
+    "hwid_base": "MIGHTY_J",
+    "name": "Prowise Chromebook Entryline"
   },
   {
     "hwid_base": "MIMROCK",
@@ -501,11 +505,11 @@
   },
   {
     "hwid_base": "MONROE",
-    "name": "LG Chromebase (22CB25S)"
+    "name": "LG Chromebase (22CV241)"
   },
   {
-    "hwid_base": "MONROE",
-    "name": "LG Chromebase (22CV241)"
+    "hwid_base": "MONROE_4",
+    "name": "LG Chromebase (22CB25S)"
   },
   {
     "hwid_base": "NASHER",
@@ -517,19 +521,15 @@
   },
   {
     "hwid_base": "NAUTILUS",
-    "name": "Samsung Chromebook Plus (LTE)"
+    "name": "Samsung Chromebook Plus (V2)"
   },
   {
-    "hwid_base": "NAUTILUS",
-    "name": "Samsung Chromebook Plus (V2)"
+    "hwid_base": "NAUTILUS_Q",
+    "name": "Samsung Chromebook Plus (LTE)"
   },
   {
     "hwid_base": "NINJA",
     "name": "AOpen Chromebox Commercial"
-  },
-  {
-    "hwid_base": "NO",
-    "name": "HP Chromebook 11 2100-2199 / HP Chromebook 11 G3"
   },
   {
     "hwid_base": "NOCTURNE",
@@ -560,7 +560,7 @@
     "name": "Acer C7 Chromebook"
   },
   {
-    "hwid_base": "PARROT",
+    "hwid_base": "PARROT_E",
     "name": "Acer C7 Chromebook IVB"
   },
   {
@@ -574,10 +574,6 @@
   {
     "hwid_base": "PHASER360",
     "name": "Lenovo 300e/500e Chromebook 2nd Gen"
-  },
-  {
-    "hwid_base": "PHASER360",
-    "name": "Lenovo Chromebook C340-11"
   },
   {
     "hwid_base": "PI",
@@ -604,55 +600,55 @@
     "name": "Consumer Chromebook"
   },
   {
-    "hwid_base": "REEF",
-    "name": "ASUS Chromebook Flip C213"
+    "hwid_base": "REEF_B",
+    "name": "Acer Chromebook Spin 11 (R751T)"
   },
   {
-    "hwid_base": "REEF",
-    "name": "Acer Chromebook Spin 11 (R751T)"
+    "hwid_base": "REEF_C",
+    "name": "ASUS Chromebook Flip C213"
   },
   {
     "hwid_base": "REKS",
     "name": "Lenovo N22 Chromebook"
   },
   {
-    "hwid_base": "REKS",
-    "name": "Lenovo N23 Chromebook"
-  },
-  {
-    "hwid_base": "REKS",
-    "name": "Lenovo N23 Chromebook (Touch)"
-  },
-  {
-    "hwid_base": "REKS",
+    "hwid_base": "REKS_B",
     "name": "Lenovo N42 Chromebook"
   },
   {
-    "hwid_base": "RELM",
-    "name": "Acer Chromebook 11 N7 (C731, C731T)"
+    "hwid_base": "REKS_C",
+    "name": "Lenovo N23 Chromebook (Touch)"
   },
   {
-    "hwid_base": "RELM",
-    "name": "CTL NL61 Chromebook"
+    "hwid_base": "REKS_D",
+    "name": "Lenovo N23 Chromebook"
   },
   {
-    "hwid_base": "RELM",
-    "name": "Edxis Education Chromebook (NL6D)"
-  },
-  {
-    "hwid_base": "RELM",
-    "name": "HP Chromebook 11 G5 EE"
-  },
-  {
-    "hwid_base": "RELM",
-    "name": "Mecer V2 Chromebook"
-  },
-  {
-    "hwid_base": "RELM",
+    "hwid_base": "RELM_A",
     "name": "N/A"
   },
   {
-    "hwid_base": "RELM",
+    "hwid_base": "RELM_B",
+    "name": "CTL NL61 Chromebook"
+  },
+  {
+    "hwid_base": "RELM_C",
+    "name": "Edxis Education Chromebook (NL6D)"
+  },
+  {
+    "hwid_base": "RELM_F",
+    "name": "Mecer V2 Chromebook"
+  },
+  {
+    "hwid_base": "RELM_G",
+    "name": "HP Chromebook 11 G5 EE"
+  },
+  {
+    "hwid_base": "RELM_H",
+    "name": "Acer Chromebook 11 N7 (C731, C731T)"
+  },
+  {
+    "hwid_base": "RELM_I",
     "name": "Positivo Chromebook C216B"
   },
   {
@@ -666,14 +662,6 @@
   {
     "hwid_base": "ROBO360",
     "name": "Lenovo 500e Chromebook"
-  },
-  {
-    "hwid_base": "SAMS ALEX",
-    "name": "Samsung Chromebook Series 5"
-  },
-  {
-    "hwid_base": "SAMS ALEX",
-    "name": "Samsung Chromebook Series 5 US 3G only"
   },
   {
     "hwid_base": "SAMUS",
@@ -712,16 +700,16 @@
     "name": "HP Chromebook 11 G2"
   },
   {
-    "hwid_base": "SNAPPY",
+    "hwid_base": "SNAPPY_A",
+    "name": "HP Chromebook x360 11 G1 EE"
+  },
+  {
+    "hwid_base": "SNAPPY_B",
     "name": "HP Chromebook 11 G6 EE"
   },
   {
-    "hwid_base": "SNAPPY",
+    "hwid_base": "SNAPPY_C",
     "name": "HP Chromebook 14 G5"
-  },
-  {
-    "hwid_base": "SNAPPY",
-    "name": "HP Chromebook x360 11 G1 EE"
   },
   {
     "hwid_base": "SNOW",
@@ -773,18 +761,18 @@
   },
   {
     "hwid_base": "SYNDRA",
-    "name": "HP Chromebook 15 G1"
+    "name": "HP Chromebook 15"
   },
   {
     "hwid_base": "TEEMO",
     "name": "ASUS Chromebox 3 (CN65)"
   },
   {
-    "hwid_base": "TERRA",
+    "hwid_base": "TERRA_A",
     "name": "ASUS Chromebook C202SA"
   },
   {
-    "hwid_base": "TERRA",
+    "hwid_base": "TERRA_B",
     "name": "ASUS Chromebook C300SA / C301SA"
   },
   {
@@ -808,23 +796,23 @@
     "name": "Dell Inspiron Chromebook 14 2-in-1 (7486)"
   },
   {
-    "hwid_base": "WHITETIP",
+    "hwid_base": "WHITETIP_D",
     "name": "CTL Chromebook J41 / J41T"
   },
   {
-    "hwid_base": "WHITETIP",
-    "name": "PCmerge Chromebook AL116"
-  },
-  {
-    "hwid_base": "WHITETIP",
+    "hwid_base": "WHITETIP_E",
     "name": "Prowise Chromebook Eduline"
   },
   {
-    "hwid_base": "WHITETIP",
+    "hwid_base": "WHITETIP_F",
     "name": "Sector 5 E3 Chromebook"
   },
   {
-    "hwid_base": "WHITETIP",
+    "hwid_base": "WHITETIP_G",
+    "name": "PCmerge Chromebook AL116"
+  },
+  {
+    "hwid_base": "WHITETIP_H",
     "name": "Viglen Chromebook 11C"
   },
   {
@@ -832,55 +820,59 @@
     "name": "Samsung Chromebook 2 11\" - XE500C12"
   },
   {
-    "hwid_base": "WIZPIG",
+    "hwid_base": "WIZPIG_A",
     "name": "CTL J5 Chromebook"
   },
   {
-    "hwid_base": "WIZPIG",
+    "hwid_base": "WIZPIG_B",
     "name": "Edugear CMT Chromebook"
   },
   {
-    "hwid_base": "WIZPIG",
+    "hwid_base": "WIZPIG_C",
     "name": "Haier Chromebook 11 C"
   },
   {
-    "hwid_base": "WIZPIG",
-    "name": "Multilaser Chromebook M11C"
+    "hwid_base": "WIZPIG_D",
+    "name": "Viglen Chromebook 360"
   },
   {
-    "hwid_base": "WIZPIG",
-    "name": "PCMerge Chromebook PCM-116T-432B"
-  },
-  {
-    "hwid_base": "WIZPIG",
+    "hwid_base": "WIZPIG_G",
     "name": "Prowise Chromebook Proline"
   },
   {
-    "hwid_base": "WIZPIG",
-    "name": "Viglen Chromebook 360"
+    "hwid_base": "WIZPIG_H",
+    "name": "PCMerge Chromebook PCM-116T-432B"
+  },
+  {
+    "hwid_base": "WIZPIG_I",
+    "name": "Multilaser Chromebook M11C"
   },
   {
     "hwid_base": "WOLF",
     "name": "Dell Chromebook 11"
   },
   {
-    "hwid_base": "WUKONG",
+    "hwid_base": "WUKONG_C",
+    "name": "ViewSonic NMP660 Chromebox"
+  },
+  {
+    "hwid_base": "WUKONG_D",
     "name": "CTL Chromebox CBx1"
   },
   {
-    "hwid_base": "WUKONG",
+    "hwid_base": "WUKONG_H",
     "name": "Promethean Chromebox"
-  },
-  {
-    "hwid_base": "WUKONG",
-    "name": "ViewSonic NMP660 Chromebox"
   },
   {
     "hwid_base": "YUNA",
     "name": "Acer Chromebook 15 (CB5-571, C910)"
   },
   {
-    "hwid_base": "ZAKO",
-    "name": "HP Chromebox G1"
+    "hwid_base": "ZGB",
+    "name": "Acer AC700-1529 3G"
+  },
+  {
+    "hwid_base": "ZGB_HE",
+    "name": "Acer AC700-1099 Wifi"
   }
 ]
